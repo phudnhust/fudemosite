@@ -32,7 +32,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {% endcapture %}
 
 {%
-  include feature_text.html
+  include figure_text.html
   link="research"
   title="Our Research"
   text=text
