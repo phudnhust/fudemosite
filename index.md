@@ -35,6 +35,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include figure_text.html
   link="research"
   title="Our Research"
+  flip=true
+  style="bare"
   text=text
 %}
 
