@@ -14,6 +14,8 @@ We are always looking for motivated PhD students, postdocs, research assistants 
 
 ## Highlights
 
+<!--- Part "Our research" -->
+
 {% capture text %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -30,12 +32,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {% endcapture %}
 
 {%
-  include feature.html
-  image="images/photo.jpg"
+  include feature_text.html
   link="research"
   title="Our Research"
   text=text
 %}
+
+<!--- Part "Browse our projects" --> 
 
 {% capture text %}
 
@@ -61,6 +64,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   style="bare"
   text=text
 %}
+
+<!--- Part "Meet our team" --> 
 
 {% capture text %}
 
