@@ -2,6 +2,9 @@
 title: Home
 ---
 
+{% include img-slideshow.html %}
+
+{% include section.html %}
 # DemoSiteLab - National ABC University
 
 DemoSiteLab was formed on the 1 August 2018, with a research focus on computer vision and deep learning. It is now a group with three faculty members and more than 40 members including research fellows, research assistants, research engineers and PhD students.
