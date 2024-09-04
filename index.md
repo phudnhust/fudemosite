@@ -2,6 +2,8 @@
 title: Home
 ---
 
+{% include section.html %}
+
 {% include img-slideshow.html %}
 
 {% include section.html %}
