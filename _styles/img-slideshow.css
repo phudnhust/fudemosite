@@ -1,6 +1,7 @@
 /* Reference: https://www.w3schools.com/howto/howto_js_slideshow.asp */
-
-* {box-sizing:border-box}
+* {
+  box-sizing: border-box;
+}
 
 /* Slideshow container */
 .slideshow-container {
@@ -38,7 +39,7 @@
 
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
+  background-color: rgba(0, 0, 0, 0.8);
 }
 
 /* Caption text */
@@ -84,6 +85,12 @@
 }
 
 @keyframes fade {
-  from {opacity: .4}
-  to {opacity: 1}
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
 }
+
+/*# sourceMappingURL=img-slideshow.css.map */
