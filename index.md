@@ -32,11 +32,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {% endcapture %}
 
 {%
-  include figure_custom.html
+  include feature.html
+  image="images/photo.jpg"
   link="research"
   title="Our Research"
-  flip=true
-  style="bare"
   text=text
 %}
 
