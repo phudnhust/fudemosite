@@ -355,6 +355,8 @@
 
   <script src="/fudemosite/_scripts/fetch-tags.js"></script>
 
+  <script src="/fudemosite/_scripts/img-slideshow.js"></script>
+
   <script src="/fudemosite/_scripts/search.js"></script>
 
   <script src="/fudemosite/_scripts/site-search.js"></script>
@@ -507,7 +509,56 @@
   
 
   <section class="background" data-size="page">
-    <h1 id="demositelab---national-abc-university">DemoSiteLab - National ABC University</h1>
+    <!-- Reference: https://www.w3schools.com/howto/howto_js_slideshow.asp -->
+
+<!-- Slideshow container -->
+<div class="slideshow-container">
+
+    <!-- Full-width images with number and caption text -->
+    <div class="mySlides fade">
+      <div class="numbertext">1 / 3</div>
+      <img src="images/background.jpg" style="width:100%">
+      <div class="text">Caption Text</div>
+    </div>
+  
+    <div class="mySlides fade">
+      <div class="numbertext">2 / 3</div>
+      <img src="images/photo.jpg" style="width:100%">
+      <div class="text">Caption Two</div>
+    </div>
+  
+    <div class="mySlides fade">
+      <div class="numbertext">3 / 3</div>
+      <img src="images/share.jpg" style="width:100%">
+      <div class="text">Caption Three</div>
+    </div>
+  
+    <!-- Next and previous buttons -->
+    <a class="prev" onclick="plusSlides(-1)">❮</a>
+    <a class="next" onclick="plusSlides(1)">❯</a>
+  </div>
+<p><br></p>
+
+<p><!-- The dots/circles --></p>
+<div style="text-align:center">
+    <span class="dot" onclick="currentSlide(1)"></span>
+    <span class="dot" onclick="currentSlide(2)"></span>
+    <span class="dot" onclick="currentSlide(3)"></span>
+  </div>
+  </section>
+
+  
+  
+  
+
+  <section class="background" data-size="page">
+    <!--
+  background: ;
+  dark: ;
+  size: ;
+-->
+
+<h1 id="demositelab---national-abc-university">DemoSiteLab - National ABC University</h1>
 
 <p>DemoSiteLab was formed on the 1 August 2018, with a research focus on computer vision and deep learning. It is now a group with three faculty members and more than 40 members including research fellows, research assistants, research engineers and PhD students.</p>
 
