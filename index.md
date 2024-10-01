@@ -4,7 +4,7 @@ title: Home
 
 {% include section.html %}
 
-{% include img-slideshow.html %}
+<!-- {% include img-slideshow.html %} -->
 
 {% include section.html %}
 # DemoSiteLab - National ABC University
