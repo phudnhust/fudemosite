@@ -13,7 +13,12 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
+# PhD students
+
 {% include list.html data="members" component="portrait" filters="role: phd" %}
+
+# Master students
+
 {% include list.html data="members" component="portrait" filters="role: ^(?!phd$)" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
