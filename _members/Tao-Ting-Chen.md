@@ -1,6 +1,6 @@
 ---
 name: 陳道亭 Tao-Ting Chen
-image: images/members/Tao-Ting Chen.jpg
+image: images/members/313605010.jpg
 role: master
 group: alum
 links:

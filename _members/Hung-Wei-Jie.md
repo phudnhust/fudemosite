@@ -1,6 +1,6 @@
 ---
 name: 洪偉捷 Hung Wei Jie 
-image: images/members/Hung Wei Jie.jpg 
+image: images/members/310553021.jpg 
 role: master
 group: alum
 links:

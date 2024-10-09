@@ -1,6 +1,6 @@
 ---
 name: 江梓豪 Tzu-Hao Chiang 
-image: images/members/Tzu-Hao Chiang.jpg 
+image: images/members/309551116.jpg 
 role: master
 group: alum
 links:

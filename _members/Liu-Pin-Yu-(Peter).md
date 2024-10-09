@@ -1,7 +1,7 @@
 ---
 name: Liu-Pin-Yu Liu-Pin-Yu (Peter) 
-image: images/members/Liu-Pin-Yu (Peter).jpg 
-role: master
+image: images/members/607415002.jpg 
+role: alumni
 group: alum
 links:
   github: link_to_github 

@@ -1,7 +1,7 @@
 ---
 name: Nova Budiyanta 
-image: images/members/Nova Budiyanta.jpg 
-role: master
+image: images/members/intern10705.jpg 
+role: alumni
 group: alum
 links:
   github: link_to_github 

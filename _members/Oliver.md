@@ -1,7 +1,7 @@
 ---
 name: Oliver 
-image: images/members/Oliver.jpg 
-role: master
+image: images/members/acm002.jpg 
+role: alumni
 group: alum
 links:
   github: link_to_github 

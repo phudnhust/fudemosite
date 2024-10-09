@@ -1,7 +1,7 @@
 ---
 name: Willi Immanuel,Susanto 
-image: images/members/Willi Immanuel,Susanto.jpg 
-role: master
+image: images/members/intern10719.jpg 
+role: alumni
 group: alum
 links:
   github: link_to_github 

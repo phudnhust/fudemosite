@@ -1,7 +1,7 @@
 ---
 name: Turpuseema Pruthvi 
-image: images/members/Turpuseema Pruthvi.jpg 
-role: master
+image: images/members/000004.jpg 
+role: alumni
 group: alum
 links:
   github: link_to_github 

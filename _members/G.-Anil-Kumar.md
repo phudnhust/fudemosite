@@ -1,7 +1,7 @@
 ---
 name: G. Anil Kumar 
-image: images/members/G. Anil Kumar.jpg 
-role: master
+image: images/members/000003.jpg 
+role: alumni
 group: alum
 links:
   github: link_to_github 

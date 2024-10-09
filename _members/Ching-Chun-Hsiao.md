@@ -1,7 +1,7 @@
 ---
 name: 蕭晴駿 Ching-Chun Hsiao 
-image: images/members/Ching-Chun Hsiao.jpg 
-role: master
+image: images/members/acm000.jpg 
+role: alumni
 group: alum
 links:
   github: link_to_github 

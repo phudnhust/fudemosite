@@ -1,6 +1,6 @@
 ---
 name: 原瑄 Hsuan Yuan 
-image: images/members/Hsuan Yuan.jpg 
+image: images/members/310553040.jpg 
 role: master
 group: alum
 links:

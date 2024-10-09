@@ -1,7 +1,7 @@
 ---
 name: Tran Nhu Phu An 
-image: images/members/Tran Nhu Phu An.jpg 
-role: master
+image: images/members/intern10715.jpg 
+role: alumni
 group: alum
 links:
   github: link_to_github 
