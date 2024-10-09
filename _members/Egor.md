@@ -1,6 +1,6 @@
 ---
 name: Egor 
-image: images/Egor.jpg 
+image: images/members/Egor.jpg 
 role: master
 group: alum
 links:

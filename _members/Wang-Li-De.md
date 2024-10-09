@@ -1,6 +1,6 @@
 ---
 name: 王力得 Wang Li-De 
-image: images/Wang Li-De.jpg 
+image: images/members/Wang Li-De.jpg 
 role: master
 group: alum
 links:

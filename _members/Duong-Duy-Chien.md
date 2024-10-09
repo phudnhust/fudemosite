@@ -1,6 +1,6 @@
 ---
 name: 楊惟戰 Duong-Duy Chien 
-image: images/Duong-Duy Chien.jpg 
+image: images/members/Duong-Duy Chien.jpg 
 role: master
 group: alum
 links:

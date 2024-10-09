@@ -1,6 +1,6 @@
 ---
 name: 洪湘惠 Hsiang-Hui Hung 
-image: images/Hsiang-Hui Hung.jpg 
+image: images/members/Hsiang-Hui Hung.jpg 
 role: master
 group: alum
 links:

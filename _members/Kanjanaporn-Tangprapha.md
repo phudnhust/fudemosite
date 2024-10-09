@@ -1,6 +1,6 @@
 ---
 name: 陳茹雪 Kanjanaporn Tangprapha 
-image: images/Kanjanaporn Tangprapha.jpg 
+image: images/members/Kanjanaporn Tangprapha.jpg 
 role: master
 group: alum
 links:

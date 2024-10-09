@@ -1,6 +1,6 @@
 ---
 name: Turpuseema Pruthvi 
-image: images/Turpuseema Pruthvi.jpg 
+image: images/members/Turpuseema Pruthvi.jpg 
 role: master
 group: alum
 links:

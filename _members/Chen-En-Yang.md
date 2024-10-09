@@ -1,6 +1,6 @@
 ---
 name: 楊境恩 Chen-En Yang 
-image: images/Chen-En Yang.jpg 
+image: images/members/Chen-En Yang.jpg 
 role: master
 group: alum
 links:

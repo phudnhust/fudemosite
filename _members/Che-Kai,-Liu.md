@@ -1,6 +1,6 @@
 ---
 name: 劉哲愷 Che-Kai, Liu 
-image: images/Che-Kai, Liu.jpg 
+image: images/members/Che-Kai, Liu.jpg 
 role: master
 group: alum
 links:

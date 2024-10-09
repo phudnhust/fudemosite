@@ -1,6 +1,6 @@
 ---
 name: 顏廷恩 Yen Ting-En 
-image: images/Yen Ting-En.jpg 
+image: images/members/Yen Ting-En.jpg 
 role: master
 group: alum
 links:

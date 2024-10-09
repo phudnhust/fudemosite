@@ -1,6 +1,6 @@
 ---
 name: 張竣傑 Chun-Chieh Chang 
-image: images/Chun-Chieh Chang.jpg 
+image: images/members/Chun-Chieh Chang.jpg 
 role: master
 group: alum
 links:

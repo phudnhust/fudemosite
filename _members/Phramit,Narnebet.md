@@ -1,6 +1,6 @@
 ---
 name: Phramit,Narnebet 
-image: images/Phramit,Narnebet.jpg 
+image: images/members/Phramit,Narnebet.jpg 
 role: master
 group: alum
 links:

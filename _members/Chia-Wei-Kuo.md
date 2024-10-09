@@ -1,6 +1,6 @@
 ---
 name: 郭家瑋 Chia-Wei Kuo 
-image: images/Chia-Wei Kuo.jpg 
+image: images/members/Chia-Wei Kuo.jpg 
 role: master
 group: alum
 links:

@@ -1,6 +1,6 @@
 ---
 name: 羅翊軒 LO,I-HSUAN 
-image: images/LO,I-HSUAN.jpg 
+image: images/members/LO,I-HSUAN.jpg 
 role: master
 group: alum
 links:

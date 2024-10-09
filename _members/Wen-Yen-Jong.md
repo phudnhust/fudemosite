@@ -1,6 +1,6 @@
 ---
 name: 張文彥 Wen-Yen Jong 
-image: images/Wen-Yen Jong.jpg 
+image: images/members/Wen-Yen Jong.jpg 
 role: master
 group: alum
 links:

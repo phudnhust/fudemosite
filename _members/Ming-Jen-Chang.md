@@ -1,6 +1,6 @@
 ---
 name: 張銘仁 Ming-Jen Chang 
-image: images/Ming-Jen Chang.jpg 
+image: images/members/Ming-Jen Chang.jpg 
 role: master
 group: alum
 links:

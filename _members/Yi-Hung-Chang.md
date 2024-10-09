@@ -1,6 +1,6 @@
 ---
 name: 張義泓 Yi-Hung Chang 
-image: images/Yi-Hung Chang.jpg 
+image: images/members/Yi-Hung Chang.jpg 
 role: master
 group: alum
 links:

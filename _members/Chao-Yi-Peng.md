@@ -1,6 +1,6 @@
 ---
 name: 彭兆翊 Chao-Yi Peng 
-image: images/Chao-Yi Peng.jpg 
+image: images/members/Chao-Yi Peng.jpg 
 role: master
 group: alum
 links:

@@ -1,6 +1,6 @@
 ---
 name: 鐘子淳 Tsu-Chun,Chung 
-image: images/Tsu-Chun,Chung.jpg 
+image: images/members/Tsu-Chun,Chung.jpg 
 role: master
 group: alum
 links:

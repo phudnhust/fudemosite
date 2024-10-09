@@ -1,6 +1,6 @@
 ---
 name: 伊斯曼 Ismail 
-image: images/Ismail.jpg 
+image: images/members/Ismail.jpg 
 role: master
 group: alum
 links:

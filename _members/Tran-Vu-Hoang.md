@@ -1,6 +1,6 @@
 ---
 name: 陳武黃 Tran Vu Hoang 
-image: images/Tran Vu Hoang.jpg 
+image: images/members/Tran Vu Hoang.jpg 
 role: master
 group: alum
 links:

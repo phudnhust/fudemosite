@@ -1,6 +1,6 @@
 ---
 name: Le Tuan Dung 
-image: images/Le Tuan Dung.jpg 
+image: images/members/Le Tuan Dung.jpg 
 role: master
 group: alum
 links:

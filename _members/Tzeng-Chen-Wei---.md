@@ -1,6 +1,6 @@
 ---
 name: 曾晨維 Tzeng Chen Wei    
-image: images/Tzeng Chen Wei   .jpg 
+image: images/members/Tzeng Chen Wei   .jpg 
 role: master
 group: alum
 links:

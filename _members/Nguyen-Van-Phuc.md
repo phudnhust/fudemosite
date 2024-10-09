@@ -1,6 +1,6 @@
 ---
 name: Nguyen Van Phuc 
-image: images/Nguyen Van Phuc.jpg 
+image: images/members/Nguyen Van Phuc.jpg 
 role: master
 group: alum
 links:

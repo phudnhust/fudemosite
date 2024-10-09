@@ -1,6 +1,6 @@
 ---
 name: 梅里紗 Widdha Mellyssa 
-image: images/Widdha Mellyssa.jpg 
+image: images/members/Widdha Mellyssa.jpg 
 role: master
 group: alum
 links:

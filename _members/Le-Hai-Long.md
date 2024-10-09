@@ -1,6 +1,6 @@
 ---
 name: Le Hai Long 
-image: images/Le Hai Long.jpg 
+image: images/members/Le Hai Long.jpg 
 role: master
 group: alum
 links:

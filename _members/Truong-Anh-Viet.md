@@ -1,6 +1,6 @@
 ---
 name: Truong Anh Viet 
-image: images/Truong Anh Viet.jpg 
+image: images/members/Truong Anh Viet.jpg 
 role: master
 group: alum
 links:

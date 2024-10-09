@@ -1,6 +1,6 @@
 ---
 name: 黎光勝 Le Quang Thang 
-image: images/Le Quang Thang.jpg 
+image: images/members/Le Quang Thang.jpg 
 role: master
 group: alum
 links:

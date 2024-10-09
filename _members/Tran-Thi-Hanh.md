@@ -1,6 +1,6 @@
 ---
 name: Tran Thi Hanh 
-image: images/Tran Thi Hanh.jpg 
+image: images/members/Tran Thi Hanh.jpg 
 role: master
 group: alum
 links:

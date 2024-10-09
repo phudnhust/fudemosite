@@ -1,6 +1,6 @@
 ---
 name: Oliver 
-image: images/Oliver.jpg 
+image: images/members/Oliver.jpg 
 role: master
 group: alum
 links:

@@ -1,6 +1,6 @@
 ---
 name: Rasaily Sarala 
-image: images/Rasaily Sarala.jpg 
+image: images/members/Rasaily Sarala.jpg 
 role: master
 group: alum
 links:

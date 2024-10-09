@@ -1,6 +1,6 @@
 ---
 name: 黃敬群 Ching-Chun Huang 
-image: images/Ching-Chun Huang.jpg 
+image: images/members/Ching-Chun Huang.jpg 
 role: prof
 group: alum
 links:

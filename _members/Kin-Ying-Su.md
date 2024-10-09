@@ -1,6 +1,6 @@
 ---
 name: 蘇建穎 Kin-Ying Su 
-image: images/Kin-Ying Su.jpg 
+image: images/members/Kin-Ying Su.jpg 
 role: master
 group: alum
 links:

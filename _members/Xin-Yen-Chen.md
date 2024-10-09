@@ -1,6 +1,6 @@
 ---
 name: 陳信燕 Xin-Yen Chen 
-image: images/Xin-Yen Chen.jpg 
+image: images/members/Xin-Yen Chen.jpg 
 role: master
 group: alum
 links:

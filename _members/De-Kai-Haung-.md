@@ -1,6 +1,6 @@
 ---
 name: 黃得凱 De-Kai Haung  
-image: images/De-Kai Haung .jpg 
+image: images/members/De-Kai Haung .jpg 
 role: master
 group: alum
 links:

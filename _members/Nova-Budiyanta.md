@@ -1,6 +1,6 @@
 ---
 name: Nova Budiyanta 
-image: images/Nova Budiyanta.jpg 
+image: images/members/Nova Budiyanta.jpg 
 role: master
 group: alum
 links:

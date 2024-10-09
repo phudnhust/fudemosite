@@ -1,6 +1,6 @@
 ---
 name: 蔡明勳 Ming-hsun Tsai 
-image: images/Ming-hsun Tsai.jpg 
+image: images/members/Ming-hsun Tsai.jpg 
 role: master
 group: alum
 links:

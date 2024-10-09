@@ -1,6 +1,6 @@
 ---
 name: Tran Duy Dinh 
-image: images/Tran Duy Dinh.jpg 
+image: images/members/Tran Duy Dinh.jpg 
 role: master
 group: alum
 links:

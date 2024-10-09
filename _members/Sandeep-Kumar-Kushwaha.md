@@ -1,6 +1,6 @@
 ---
 name: Sandeep Kumar Kushwaha 
-image: images/Sandeep Kumar Kushwaha.jpg 
+image: images/members/Sandeep Kumar Kushwaha.jpg 
 role: master
 group: alum
 links:

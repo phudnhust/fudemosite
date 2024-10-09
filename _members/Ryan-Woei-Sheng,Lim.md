@@ -1,6 +1,6 @@
 ---
 name: Ryan Woei Sheng,Lim 
-image: images/Ryan Woei Sheng,Lim.jpg 
+image: images/members/Ryan Woei Sheng,Lim.jpg 
 role: master
 group: alum
 links:

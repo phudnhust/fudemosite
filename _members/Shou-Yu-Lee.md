@@ -1,6 +1,6 @@
 ---
 name: 李守裕 Shou-Yu Lee 
-image: images/Shou-Yu Lee.jpg 
+image: images/members/Shou-Yu Lee.jpg 
 role: master
 group: alum
 links:

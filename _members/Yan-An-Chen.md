@@ -1,6 +1,6 @@
 ---
 name: 陳彥銨 Yan-An Chen 
-image: images/Yan-An Chen.jpg 
+image: images/members/Yan-An Chen.jpg 
 role: master
 group: alum
 links:

@@ -1,6 +1,6 @@
 ---
 name: 謝仁耀 Ren-Yao Hsieh 
-image: images/Ren-Yao Hsieh.jpg 
+image: images/members/Ren-Yao Hsieh.jpg 
 role: master
 group: alum
 links:

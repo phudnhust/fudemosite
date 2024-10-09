@@ -1,6 +1,6 @@
 ---
 name: 黃書賢 Huang Shu-Hsien 
-image: images/Huang Shu-Hsien.jpg 
+image: images/members/Huang Shu-Hsien.jpg 
 role: master
 group: alum
 links:

@@ -1,6 +1,6 @@
 ---
 name: 蕭晴駿 Ching-Chun Hsiao 
-image: images/Ching-Chun Hsiao.jpg 
+image: images/members/Ching-Chun Hsiao.jpg 
 role: master
 group: alum
 links:

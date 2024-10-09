@@ -1,6 +1,6 @@
 ---
 name: Le Manh Truong 
-image: images/Le Manh Truong.jpg 
+image: images/members/Le Manh Truong.jpg 
 role: master
 group: alum
 links:

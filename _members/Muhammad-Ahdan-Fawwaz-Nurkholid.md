@@ -1,6 +1,6 @@
 ---
 name: Muhammad Ahdan Fawwaz Nurkholid 
-image: images/Muhammad Ahdan Fawwaz Nurkholid.jpg 
+image: images/members/Muhammad Ahdan Fawwaz Nurkholid.jpg 
 role: master
 group: alum
 links:

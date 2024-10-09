@@ -1,6 +1,6 @@
 ---
 name: 裴慶峰 Bui Khanh Phong 
-image: images/Bui Khanh Phong.jpg 
+image: images/members/Bui Khanh Phong.jpg 
 role: master
 group: alum
 links:

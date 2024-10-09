@@ -1,6 +1,6 @@
 ---
 name: 鄭弘昇 Hung-Sheng Cheng 
-image: images/Hung-Sheng Cheng.jpg 
+image: images/members/Hung-Sheng Cheng.jpg 
 role: master
 group: alum
 links:

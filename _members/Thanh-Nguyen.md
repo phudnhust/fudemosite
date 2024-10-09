@@ -1,6 +1,6 @@
 ---
 name: 青原 Thanh Nguyen 
-image: images/Thanh Nguyen.jpg 
+image: images/members/Thanh Nguyen.jpg 
 role: master
 group: alum
 links:

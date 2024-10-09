@@ -1,6 +1,6 @@
 ---
 name: KaRan ArOra 
-image: images/KaRan ArOra.jpg 
+image: images/members/KaRan ArOra.jpg 
 role: master
 group: alum
 links:

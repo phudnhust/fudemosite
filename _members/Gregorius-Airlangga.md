@@ -1,6 +1,6 @@
 ---
 name: Gregorius Airlangga 
-image: images/Gregorius Airlangga.jpg 
+image: images/members/Gregorius Airlangga.jpg 
 role: master
 group: alum
 links:

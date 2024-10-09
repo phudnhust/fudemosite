@@ -1,6 +1,6 @@
 ---
 name: G. Anil Kumar 
-image: images/G. Anil Kumar.jpg 
+image: images/members/G. Anil Kumar.jpg 
 role: master
 group: alum
 links:

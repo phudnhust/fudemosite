@@ -1,6 +1,6 @@
 ---
 name: 呂哲宇 LU,CHE-YU 
-image: images/LU,CHE-YU.jpg 
+image: images/members/LU,CHE-YU.jpg 
 role: master
 group: alum
 links:

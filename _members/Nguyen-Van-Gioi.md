@@ -1,6 +1,6 @@
 ---
 name: Nguyen Van Gioi 
-image: images/Nguyen Van Gioi.jpg 
+image: images/members/Nguyen Van Gioi.jpg 
 role: master
 group: alum
 links:

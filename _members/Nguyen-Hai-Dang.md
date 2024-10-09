@@ -1,6 +1,6 @@
 ---
 name: Nguyen Hai Dang 
-image: images/Nguyen Hai Dang.jpg 
+image: images/members/Nguyen Hai Dang.jpg 
 role: master
 group: alum
 links:

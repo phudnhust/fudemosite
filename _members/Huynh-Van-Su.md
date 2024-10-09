@@ -1,6 +1,6 @@
 ---
 name: 黃文事 Huynh Van Su 
-image: images/Huynh Van Su.jpg 
+image: images/members/Huynh Van Su.jpg 
 role: master
 group: alum
 links:

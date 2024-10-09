@@ -1,6 +1,6 @@
 ---
 name: Truong Quang Phuc 
-image: images/Truong Quang Phuc.jpg 
+image: images/members/Truong Quang Phuc.jpg 
 role: master
 group: alum
 links:

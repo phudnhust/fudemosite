@@ -1,6 +1,6 @@
 ---
 name: 陳志銘 CHEN,JHIH-MING 
-image: images/CHEN,JHIH-MING.jpg 
+image: images/members/CHEN,JHIH-MING.jpg 
 role: master
 group: alum
 links:

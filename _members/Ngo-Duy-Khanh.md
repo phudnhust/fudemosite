@@ -1,6 +1,6 @@
 ---
 name: Ngo Duy Khanh 
-image: images/Ngo Duy Khanh.jpg 
+image: images/members/Ngo Duy Khanh.jpg 
 role: master
 group: alum
 links:

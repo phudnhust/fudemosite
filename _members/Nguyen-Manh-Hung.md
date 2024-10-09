@@ -1,6 +1,6 @@
 ---
 name: 阮猛雄 Nguyen Manh Hung 
-image: images/Nguyen Manh Hung.jpg 
+image: images/members/Nguyen Manh Hung.jpg 
 role: master
 group: alum
 links:

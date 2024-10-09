@@ -1,6 +1,6 @@
 ---
 name: 李建亨 Chieh-Heng Li 
-image: images/Chieh-Heng Li.jpg 
+image: images/members/Chieh-Heng Li.jpg 
 role: master
 group: alum
 links:

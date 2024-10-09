@@ -1,6 +1,6 @@
 ---
 name: 葉濟賢 Ji-Shian Ye 
-image: images/Ji-Shian Ye.jpg 
+image: images/members/Ji-Shian Ye.jpg 
 role: master
 group: alum
 links:

@@ -1,6 +1,6 @@
 ---
 name: 施育衡 Yu-Heng Shih 
-image: images/Yu-Heng Shih.jpg 
+image: images/members/Yu-Heng Shih.jpg 
 role: master
 group: alum
 links:

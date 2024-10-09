@@ -1,6 +1,6 @@
 ---
 name: Le Ngoc Hoang Lam 
-image: images/Le Ngoc Hoang Lam.jpg 
+image: images/members/Le Ngoc Hoang Lam.jpg 
 role: master
 group: alum
 links:

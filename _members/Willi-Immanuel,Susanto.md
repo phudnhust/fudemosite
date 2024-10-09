@@ -1,6 +1,6 @@
 ---
 name: Willi Immanuel,Susanto 
-image: images/Willi Immanuel,Susanto.jpg 
+image: images/members/Willi Immanuel,Susanto.jpg 
 role: master
 group: alum
 links:

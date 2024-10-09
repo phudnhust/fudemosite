@@ -1,6 +1,6 @@
 ---
 name: 黃佩芬 Beatrice Adelaide Wibisono 
-image: images/Beatrice Adelaide Wibisono.jpg 
+image: images/members/Beatrice Adelaide Wibisono.jpg 
 role: master
 group: alum
 links:

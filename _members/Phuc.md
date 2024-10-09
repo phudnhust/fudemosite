@@ -1,6 +1,6 @@
 ---
 name: Phuc 
-image: images/Phuc.jpg 
+image: images/members/Phuc.jpg 
 role: master
 group: alum
 links:

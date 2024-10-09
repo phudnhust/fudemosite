@@ -1,6 +1,6 @@
 ---
 name: 薛皓謙 Hsueh ,Hao-Chien 
-image: images/Hsueh ,Hao-Chien.jpg 
+image: images/members/Hsueh ,Hao-Chien.jpg 
 role: master
 group: alum
 links:

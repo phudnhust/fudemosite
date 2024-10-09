@@ -1,6 +1,6 @@
 ---
 name: 賴家恆 Lai Chia Hern 
-image: images/Lai Chia Hern.jpg 
+image: images/members/Lai Chia Hern.jpg 
 role: master
 group: alum
 links:

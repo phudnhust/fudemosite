@@ -1,6 +1,6 @@
 ---
 name: 楊寧之 Ning-Chih Yang 
-image: images/Ning-Chih Yang.jpg 
+image: images/members/Ning-Chih Yang.jpg 
 role: master
 group: alum
 links:

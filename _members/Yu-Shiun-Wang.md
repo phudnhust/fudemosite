@@ -1,6 +1,6 @@
 ---
 name: 王昱勛 Yu-Shiun Wang 
-image: images/Yu-Shiun Wang.jpg 
+image: images/members/Yu-Shiun Wang.jpg 
 role: master
 group: alum
 links:

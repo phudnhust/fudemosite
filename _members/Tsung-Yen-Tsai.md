@@ -1,6 +1,6 @@
 ---
 name: 蔡宗諺 Tsung-Yen Tsai 
-image: images/Tsung-Yen Tsai.jpg 
+image: images/members/Tsung-Yen Tsai.jpg 
 role: master
 group: alum
 links:
