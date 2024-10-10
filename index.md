@@ -1,5 +1,8 @@
 ---
 title: Home
+nav:
+  order: 1
+  tooltip: Homepage
 ---
 
 {% include section.html %}
