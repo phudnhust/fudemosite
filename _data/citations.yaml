@@ -1,7 +1,7 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - authors: Ting-Yu Chu, Yong-Xiang Lin, Ching-Chun Huang, Kai-Lung Hua
-  date: ''
+  date: '2025-01-01'
   image: ''
   publisher: 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
   title: Boosting Diffusion Guidance via Learning Degradation-Aware Models for Blind
@@ -11,7 +11,7 @@
   file: sources.yaml
 - authors: Ta Chun Tai, Nhat-Tuong Do-Tran, Ngoc-Hoang-Lam Le, Yung-Hui Li, Ching-Chun
     Huang
-  date: ''
+  date: '2024-01-01'
   image: ''
   publisher: Asian Conference on Computer Vision 2024 (ACCV 2024)
   title: Enhancing Anchor-based Weakly Supervised Referring Expression Comprehension
@@ -21,7 +21,7 @@
   file: sources.yaml
 - authors: Huu-Phu Do, Po-Chih Hu, Hao-Chien Hsueh, Che-Kai Liu, Vu-Hoang Tran, Ching-Chun
     Huang
-  date: ''
+  date: '2024-01-01'
   image: ''
   publisher: Asian Conference on Computer Vision 2024 (ACCV 2024)
   title: 'DA^2: Degree-Accumulated Data Augmentation on Point Clouds with Curriculum
@@ -30,7 +30,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Hsiang-Hui Hung, Huu-Phu Do, Yung-Hui Li, Ching-Chun Huang
-  date: 2024-09
+  date: '2024-09-01'
   image: ''
   publisher: Asian Conference on Computer Vision 2024 (ACCV 2024)
   title: Blind Super Resolution with Reference Images and Implicit Degradation Representation
@@ -39,7 +39,7 @@
   file: sources.yaml
 - authors: Meng-Cheng Shih, Tsai-Ling Huang, Yu-Heng Shih, Hong-Han Shuai, Hsuan-Tung
     Liu, Yi-Ren Yeh, and Ching-Chun Huang
-  date: 2024-07
+  date: '2024-07-01'
   image: ''
   publisher: ACM Multimedia 2024 (ACMMM)
   title: 'TimeNeRF: Building Generalizable Neural Radiance Fields across Time from
@@ -49,7 +49,7 @@
   file: sources.yaml
 - authors: Zhi-Yi Chin, Chieh Ming Jiang, Ching-Chun Huang, Pin-Yu Chen, Wei-Chen
     Chiu,
-  date: 2024-10
+  date: '2024-10-01'
   image: ''
   publisher: 2024 European Conference on Computer Vision (ECCV)
   title: 'DetailSemNet: Elevating Signature Verification with Captured Details and
@@ -58,7 +58,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Chi-Han Chen, Chieh-Ming Chen, Wen-Huang Cheng, Ching-Chun Huang
-  date: 2024-12
+  date: '2024-12-01'
   image: ''
   publisher: 2024 International Conference On Machine Learning (ICML)
   title: 'Prompting4Debugging: Red-Teaming Text-to-Image Diffusion Models by Finding
@@ -67,7 +67,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Yu Wei Chen, Huu Phu Do, Chia Wei Kuo, Hsuan Tung Liu, Ching Chun Huang
-  date: 2024-10
+  date: '2024-10-01'
   image: ''
   publisher: "2024 \nIEEE International Conference on Image Processing (ICIP)"
   title: 'AERIAL VIEW RIVER LANDFORM VIDEO SEGMENTATION: A WEAKLY SUPERVISED CONTEXT-AWARE
@@ -77,7 +77,7 @@
   file: sources.yaml
 - authors: Hsuan Yuan, Shao-Yu Weng, I-Hsuan Lo, Wei-Chen Chiu, Yu-Syuan Xu, Hao-Chien
     Hsueh, Jen-Hui Chuang, Ching-Chun Huang
-  date: 2024-10
+  date: '2024-10-01'
   image: ''
   publisher: "2024 \nIEEE International Conference on Image Processing (ICIP)"
   title: 'LIPFACE: LIPSCHITZ-CONDITIONED FOR RESOLUTION ROBUST FACE RECOGNITION'
@@ -85,7 +85,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Shao-Yu Weng, Hsuan Yuan, Yu-Syuan Xu, Ching-Chun Huang, Wei-Chen Chiu
-  date: 2024-10
+  date: '2024-10-01'
   image: ''
   publisher: "2024 \nIEEE International Conference on Image Processing (ICIP)"
   title: 'Two Heads Better than One: Dual Degradation Representation for Blind Super-Resolution'
@@ -93,7 +93,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Cheng Huang, Yi-Lun Wu, Hong-Han Shuai, Ching-Chun Huang
-  date: 2024-01
+  date: '2024-01-01'
   image: ''
   publisher: 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
   title: 'Best of Both Worlds: Learning Arbitrary-scale Blind Super-Resolution via
@@ -102,7 +102,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Yi Ting Tsai, Yu Wei Chen, Hong-Han Shuai, Ching-Chun Huang
-  date: 2024-01
+  date: '2024-01-01'
   image: ''
   publisher: 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
   title: 'Semantic Fusion Augmentation and Semantic Boundary Detection: A Novel Approach
@@ -112,7 +112,7 @@
   file: sources.yaml
 - authors: Zhi-Yi Chin, Chieh-Ming Jiang, Ching-Chun Huang, Pin-Yu Chen, Wei-Chen
     Chiu
-  date: 2024-01
+  date: '2024-01-01'
   image: ''
   publisher: 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
   title: Arbitrary-Resolution and Arbitrary-Scale Face Super-Resolution with Implicit
@@ -122,7 +122,7 @@
   file: sources.yaml
 - authors: Zhi-Yi Chin, Chieh-Ming Jiang, Ching-Chun Huang, Pin-Yu Chen, Wei-Chen
     Chiu
-  date: 2024-01
+  date: '2024-01-01'
   image: ''
   publisher: 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
   title: Masking Improves Contrastive Self-Supervised Learning for ConvNets, and Saliency
@@ -132,7 +132,7 @@
   file: sources.yaml
 - authors: Hsin-Ju Lin, Tsu-Chun Chung, Ching-chun Hsiao, Pin-Yu Chen, Wei-Chen Chiu,
     Ching-Chun Huang
-  date: 2023-11
+  date: '2023-11-01'
   image: ''
   publisher: International Conference on Machine Learning
   title: 'Prompting4Debugging: Red-Teaming Text-to-Image Diffusion Models by Finding
@@ -143,7 +143,7 @@
 - authors: Ngoc-Quan Ha-Phan, Thanh-Nguyen Truong and Vu-Hoang Tran (Ho Chi Minh City
     University of Technology and Education, Vietnam); Ching-Chun Huang (National Yang
     Ming Chiao Tung University, Taiwan)
-  date: 2023-10
+  date: '2023-10-01'
   image: ''
   publisher: 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems
     (IROS)
@@ -154,7 +154,7 @@
 - authors: Cong-Ty Dang, Vu-Hoang Tran and Ngoc-Hoang-Lam Le (Ho Chi Minh City University
     of Technology and Education, Vietnam); Ching-Chun Huang (National Yang Ming Chiao
     Tung University, Taiwan)
-  date: 2023-10
+  date: '2023-10-01'
   image: ''
   publisher: 2023 Asia Pacific Signal and Information Processing Association Annual
     Summit and Conference (APSIPA ASC)
@@ -164,7 +164,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: ' Wei-Jie Hung, Egor Poliakov and Ching-Chun Huang'
-  date: 2023-10
+  date: '2023-10-01'
   image: ''
   publisher: 2023 Asia Pacific Signal and Information Processing Association Annual
     Summit and Conference (APSIPA ASC)
@@ -174,7 +174,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Wing Ho Tang, Hsuan Yuan, Tzu-Hao Chiang, Ching-Chun Huang
-  date: 2023-10
+  date: '2023-10-01'
   image: ''
   publisher: 2023 Asia Pacific Signal and Information Processing Association Annual
     Summit and Conference (APSIPA ASC)
@@ -183,7 +183,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Chien-Heng Yu, Ching-Chun Huang
-  date: 2023-05
+  date: '2023-05-01'
   image: ''
   publisher: ' 2023 IEEE International Symposium on Circuits & Systems(ISCAS)'
   title: 'ZERO-LEINR: ZERO-Reference LOW-Light Image Enhancement with Intrinsic Noise
@@ -193,7 +193,7 @@
   file: sources.yaml
 - authors: "Yu-Ming Hu, Jia-Jin Xie, Hong-Han Shuai, Ching-Chun Huang, I-Fan Chou,\
     \ Wen-Huang Cheng (\u912D\u6587\u7687\u8001\u5E2B\u70BAcorresponding author)"
-  date: 2023-01
+  date: '2023-01-01'
   image: ''
   publisher: '2023 IEEE International Conference on Consumer Electronics (ICCE) '
   title: Incremental Map Modeling for Lightweight SLAM via Deep Reinforcement Learning
@@ -201,7 +201,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Ching-Hung Cheng, Jing-Wen Chen, Ching-Chun Huang
-  date: 2023-01
+  date: '2023-01-01'
   image: ''
   publisher: '2023 IEEE International Conference on Consumer Electronics (ICCE) '
   title: Dynamic Feature Fusion for Visual Object Detection and Segmentation
@@ -209,7 +209,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Van-Tin Luu, Vu-Hoang Tran, Egor Poliakov, Ching-Chun Huang
-  date: 2023-01
+  date: '2023-01-01'
   image: ''
   publisher: '2023 IEEE International Conference on Consumer Electronics (ICCE) '
   title: Disentanglement-Based Multi-Vehicle Detection and Tracking for Gate-Free
@@ -219,7 +219,7 @@
   file: sources.yaml
 - authors: Ming-Jen Chang, Chih-Jen Cheng, Ching-Chun Hsiao, I-Fan Chou, Ching-Chun
     Huang
-  date: 2023-01
+  date: '2023-01-01'
   image: ''
   publisher: '2023 IEEE International Conference on Consumer Electronics (ICCE) '
   title: 'D2D: Divide to Detect, A Scale-Aware Framework for On-Road Object Detection
@@ -228,7 +228,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Yu Hsuan Li, Tzu-Yin Chao, Ching-Chun Huang, Pin-Yu Chen, Wei-Chen Chiu
-  date: 2022-11
+  date: '2022-11-01'
   image: ''
   publisher: 2022 IEEE International Conference on Advanced Video and Signal-Based
     Surveillance(2022AVSS)
@@ -238,7 +238,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Chia-Wei Kuo, Yi-Ting Tsai, Hong-Han Shuai, Yi-Ren Yeh, Ching-Chun Huang
-  date: 2022-11
+  date: '2022-11-01'
   image: ''
   publisher: '(NeurIPS 2022)
 
@@ -249,7 +249,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Egor Poliakov, Van-Tin Luu, Vu-Hoang Tran, Ching-Chun Huang
-  date: ''
+  date: '2022-10-01'
   image: ''
   publisher: ACM International Conference on Multimedia (ACM MM 2022)
   title: Towards Understanding Cross Resolution Feature Matching for Surveillance
@@ -258,7 +258,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Ting-Wei Chang, Wei-Chen Chiu, Ching-Chun Huang
-  date: ''
+  date: '2022-07-01'
   image: ''
   publisher: IEEE International Conference on Multimedia & Expo  (ICME2022)
   title: Model compression via structural pruning and feature distillation for accurate
@@ -268,7 +268,7 @@
   file: sources.yaml
 - authors: Tso-Yuan Chen, Ching-Chun Hsiao, Wen-Huang Cheng, Hong-Han Shuai , Peter
     Chen, Ching-Chun Huang
-  date: ''
+  date: '2022-05-01'
   image: ''
   publisher: 2022 IEEE International Conference on Acoustics, Speech and Signal Processing(ICASSP
     2022)
@@ -277,7 +277,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Yan-An Chen, Ching-Chun Hsiao, Wen-Hsiao Peng, Ching-Chun Huang
-  date: 2021-12
+  date: '2021-12-01'
   image: ''
   publisher: ' IEEE International Conference on Visual Communications and Image Processing
     (VCIP)'
@@ -288,7 +288,7 @@
   file: sources.yaml
 - authors: "Stanley (Yan-Cheng Huang), Julie (Yi-Hsin Chen), Cheng-You Lu, Hui-Po\
     \ Wang, Wen-Hsiao Peng, Ching-Chun Huang (\u9806\u5E8F\u5F85\u78BA\u8A8D)"
-  date: 2021-12
+  date: '2021-12-01'
   image: ''
   publisher: ' IEEE International Conference on Visual Communications and Image Processing
     (VCIP)'
@@ -297,7 +297,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: ' Manh Hung Nguyen, Tzu-Yin Chao, Ching-Chun Huang*'
-  date: 2021-06
+  date: '2021-06-01'
   image: ''
   publisher: CVPR2021
   title: Video Rescaling Networks with Joint Optimization Strategies for Downscaling
@@ -306,7 +306,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: You-Feng Wu,Vu-Hoang Tran,Ting-Wei Chang,Wei-Chen Chiu,Ching-Chun Huang
-  date: 2021-01
+  date: '2021-01-01'
   image: ''
   publisher: ' IEEE International Conference on Pattern Recognition.'
   title: Vacant Parking Space Detection based on Task Consistency and Reinforcement
@@ -316,7 +316,7 @@
   file: sources.yaml
 - authors: Nelson Chong Ngee Bow; Vu-Hoang Tran; Punchok Kerdsiri; Yuen Peng Loh;
     Ching-Chun Huang
-  date: 2021-01
+  date: '2021-01-01'
   image: ''
   publisher: IEEE International Conference on Pattern Recognition
   title: 'DEN: Disentangling and Exchanging Network for Depth Completion'
@@ -325,7 +325,7 @@
   file: sources.yaml
 - authors: Chung-Sheng Lai, Zunzhi You, Ching-Chun Huang, Yi-Hsuan Tsai, Wei-Chen
     Chiu
-  date: 2020-12
+  date: '2020-12-01'
   image: ''
   publisher: ' IEEE International Conference on Visual Communications and Image Processing
     (VCIP)'
@@ -334,7 +334,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Wei-Zhong Zheng , Vu-Hoang Tran , Ching-Chun Huang
-  date: 2020-08
+  date: '2020-08-01'
   image: ''
   publisher: 16th European Conference on Computer Vision(ECCV)
   title: Colorization of Depth Map via Disentanglement
@@ -342,7 +342,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Hung Nguyen Manh, Ching-Chun Huang
-  date: 2020-05
+  date: '2020-05-01'
   image: ''
   publisher: IEEE International Conference on Acoustics, Speech, and Signal Processing
     (ICASSP)
@@ -351,7 +351,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Hoang Tran Vu, and Ching-Chun Huang
-  date: 2019-10
+  date: '2019-10-01'
   image: ''
   publisher: IEEE International Conference on Systems, Man, and Cybernetics
   title: A Robust Multi-Kinect 3D Skeleton Tracking Considering Left-Right Confusion
@@ -360,7 +360,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Van Su Huynh, Vu Hoang Tran, Ching-Chun Huang
-  date: 2019-10
+  date: '2019-10-01'
   image: ''
   publisher: IEEE International Conference on Systems, Man, and Cybernetics
   title: Domain Adaptation Meets Disentangled Representation Learning and Style Transfer
@@ -368,7 +368,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Tzu-Ying Chao, Manh-Hung Nguyen, Ching-Chun Huang
-  date: 2019-10
+  date: '2019-10-01'
   image: ''
   publisher: IEEE International Conference on Systems, Man, and Cybernetics
   title: 'IUML: Inception U-Net Based Multi-Task Learning for Density Level Classification
@@ -377,7 +377,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Van-Su Huynh, Vu Hoang Tran, Ching-Chun Huang
-  date: 2019-10
+  date: '2019-10-01'
   image: ''
   publisher: IEEE International Conference on Systems, Man, and Cybernetics
   title: Online Learning for High Accuracy HVAC Control and Energy Saving
@@ -385,7 +385,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Ching-Chun Huang, Thanh-Phat Nguyen, Chen-Tung Lai
-  date: 2019-09
+  date: '2019-09-01'
   image: ''
   publisher: IEEE International Conference on Image Processing
   title: 'DAnet: Depth-Aware Network For Crowd Counting'
@@ -393,7 +393,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Ching-Chun Huang, Thanh-Phat Nguyen and Chen-Tung Lai
-  date: 2019-09
+  date: '2019-09-01'
   image: ''
   publisher: 2019 IEEE International Conference on Image Processing (ICIP)
   title: Multi-Channel Multi-Loss Deep Learning Based Compression Model for Color
@@ -402,7 +402,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Xin-Yu Huang, Meng-Shiun Tsai, and Ching-Chun Huang
-  date: 2019-06
+  date: '2019-06-01'
   image: ''
   publisher: CVPR Workshop and Challenge on Learned Image Compression
   title: Learned Prior Information for Image Compression
@@ -410,7 +410,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Tzung-Yan Tsai, Zhe-Yu Lu, and Ching-Chun Huang
-  date: 2019-05
+  date: '2019-05-01'
   image: ''
   publisher: International Conference on Consumer Electronics - Taiwan (ICCE-TW)
   title: 3D Virtual-Reality Interaction System
@@ -418,7 +418,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: You-Feng Wu, Hoang Tran Vu, Ching-Chun Huang
-  date: 2019-05
+  date: '2019-05-01'
   image: ''
   publisher: International Conference ICCon Consumer Electronics - Taiwan (ICCE-TW)
   title: License Plate Recognition System Based on Deep Learning
@@ -426,7 +426,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Wei-Yuan Lin, Ching-Chun Huang, Hung Nguyen Manh and Nguyen Tran Duc
-  date: 2019-05
+  date: '2019-05-01'
   image: ''
   publisher: 'Multimedia Analysis and
 
@@ -438,7 +438,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Thanh-Phat Nguyen, Hoang Tran Vu, and Ching-Chun Huang
-  date: 2018-11
+  date: '2018-11-01'
   image: ''
   publisher: 'IEEE International Conference on Digital Signal
 
@@ -448,7 +448,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Wei-Yuan Lin, Ching-Chun Huang, Hung Nguyen Manh and Nguyen Tran Duc
-  date: 2018-10
+  date: '2018-10-01'
   image: ''
   publisher: 'IEEE International Conference on
 
@@ -460,7 +460,7 @@
   file: sources.yaml
 - authors: Oscal Tzyh-Chiang Chen, Sung-Nien Yu, Ching-Chun Huang, Huang-Chen Lee,
     Yu-Ling Hsueh, Jerry Chih-Yuan Sun
-  date: 2018-08
+  date: '2018-08-01'
   image: ''
   publisher: IEEE Vehicular Technology Society Asia Pacific Wireless Communications
     Symposium
@@ -469,7 +469,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Po-Hsien Wang, Ting-Ying Wang, Ya-Chu Chang, and Ching-Chun Huang
-  date: 2018-07
+  date: '2018-07-01'
   image: ''
   publisher: 'IEEE International Conference on Multimedia
 
@@ -480,7 +480,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Ching-Chun Huang, Yi-Ning Chuang, Atul Kumar
-  date: 2018-05
+  date: '2018-05-01'
   image: ''
   publisher: ' IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW)'
   title: Immersive 3D Human-Computer Interaction System
@@ -488,7 +488,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Hoang Tran Vu, Ching-Chun Huang
-  date: 2017-11
+  date: '2017-11-01'
   image: ''
   publisher: The 13th Asian Conference on Computer Aided Surgery
   title: 3D Object Reconstruction based on Structure from Motion and Shape from Shading
@@ -497,7 +497,7 @@
   file: sources.yaml
 - authors: Yi-Ting Tsai, Shih-Jou Yu, Xin-Yen Chen, Oscal Tzyh-Chiang Chen, Jerry
     Chih-Yuan Sun, Ching-Chun Huang
-  date: 2017-09
+  date: '2017-09-01'
   image: ''
   publisher: 2017 IEEE International Conference on Image Processing
   title: A Multi-task Convolutional Neural Network with Spatial Transform for Parking
@@ -506,7 +506,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Chingchun Huang, Wei-Chi Chang, and Hung Nguyen Manh
-  date: 2017-09
+  date: '2017-09-01'
   image: ''
   publisher: International Conference on IoT as a Service
   title: Personalized Mobile Learning System via Smart Glasses
@@ -514,7 +514,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Hsiang-Hui Hung, Huu-Phu Do, Yung-Hui Li, Ching-Chun Huang
-  date: 2017-06
+  date: '2017-06-01'
   image: ''
   publisher: 2017 IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW)
   title: Unsupervised Radio Map Learning for Indoor Localization
@@ -522,7 +522,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Ching-Chun Huang, Hung-Nguyen Manh, Yu-Shiun Wang
-  date: 2016-08
+  date: '2016-08-01'
   image: ''
   publisher: The 9th IEEE International Conference on Ubi-Media Computing
   title: A Hybrid Method for Visitor Localization and Tracking in a Museum Environment
@@ -530,7 +530,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Ching-Chun Huang, Ismail, Ming-Xun Cai, and Hoang Tran Vu
-  date: 2016-05
+  date: '2016-05-01'
   image: ''
   publisher: 2016 IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW)
   title: An Self-Adaptive Wireless Indoor Localization System for Device Diversity
@@ -539,7 +539,7 @@
   file: sources.yaml
 - authors: Atul Kumar, Shih-Wei Huang, Yen-Yu Wang, Wan-Chi Hung, Kai-Che Liu, Chingchun
     Huang
-  date: 2016-05
+  date: '2016-05-01'
   image: ''
   publisher: 2016 IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW)
   title: HDR Compression based on Image Matting Laplacian
@@ -547,7 +547,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Ching-Chun Huang and Hoang Tran Vu
-  date: 2016-05
+  date: '2016-05-01'
   image: ''
   publisher: 2016 IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW)
   title: Laparoscopic video augmentation with infrared image information
@@ -555,7 +555,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Ching-Chun Huang, Hoang Tran Vu, and Yi-Ren Chen
-  date: 2015-09
+  date: '2015-09-01'
   image: ''
   publisher: IEEE International Workshop on Machine Learning for Signal Processing
   title: A Multi-layer Discriminative Framework for Parking Space Detection
@@ -563,7 +563,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Ching-Chun Huang, Hoang Tran Vu, and Yi-Ren Chen
-  date: 2015-08
+  date: '2015-08-01'
   image: ''
   publisher: IPPR Conference on Computer Vision, Graphics, and Image Processing
   title: Vacant Parking Space Detection based on a Hierarchical and Semantic Classifier
@@ -571,7 +571,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Hung-Nguyen Manh, Ching-Chun Huang , and Hsiao-Yi Lee
-  date: 2015-06
+  date: '2015-06-01'
   image: ''
   publisher: IEEE International Conference on Consumer Electronics - Taiwan
   title: A Multiclass Boosting Approach for Integrating Weak Classifiers in Parking
@@ -580,7 +580,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Hung-Nguyen Manh, Ching-Chun Huang , and Hsiao-Yi Lee
-  date: 2015-06
+  date: '2015-06-01'
   image: ''
   publisher: IEEE International Conference on Consumer Electronics - Taiwan
   title: A Region-Based Approach for RSS Indoor Localization
@@ -589,7 +589,7 @@
   file: sources.yaml
 - authors: Atul Kumar, Yen-Yu Wang, Kai-Che Liu, Wan-Chi Hung, Shih-Wei Huang, Wen-Nung
     Lie, Ching-Chun Huang
-  date: 2015-06
+  date: '2015-06-01'
   image: ''
   publisher: 'IEEE International Conference on Consumer Electronics - Taiwan '
   title: Auto-Calibration for Device-Diversity Problem in an Indoor Localization system
@@ -597,7 +597,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: 'Ching-Chun Huang, Hoang Tran Vu, and Jeffrey Tang '
-  date: 2015-06
+  date: '2015-06-01'
   image: ''
   publisher: IEEE International Conference on Consumer Electronics - Taiwan
   title: Surface Reconstruction from Endoscopic Image Sequence
@@ -605,7 +605,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Ching-Chun Huang, Yu-Shiun Wang, Wei-Li Huang, and Hung Nguyen Manh,
-  date: 2014-11
+  date: '2014-11-01'
   image: ''
   publisher: 2014 IEEE International Conference on Connected Vehicles & Expo
   title: "Inter-Vehicle Communication, License Plate \n\nVerification, and Distance\
@@ -614,7 +614,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Ching-Chun Huang, Wei-Li Huang, and Hung Nguyen Manh
-  date: 2014-08
+  date: '2014-08-01'
   image: ''
   publisher: IEEE Asia Pacific Wireless Communications Symposium,
   title: Automatic Landmark-based RSS Compensation for Device Diversity in an Indoor
@@ -623,7 +623,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Ching-Chun Huang, Hung-Nguyen Manh, and Chen-Yu Tseng
-  date: 2014-08
+  date: '2014-08-01'
   image: ''
   publisher: IEEE Asia Pacific Wireless Communications Symposium
   title: Multi-Dimension Kernel Density Estimation for RSS Based Indoor Localization
@@ -631,7 +631,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Atul Kumar, Ching-Chun Huang Hung-Nguyen Manh,
-  date: 2014-05
+  date: '2014-05-01'
   image: ''
   publisher: IEEE International Conference on Acoustics, Speech and Signal Processing
   title: X-Ray Image Contrast Enhancement Based On Tissue Attenuation
@@ -639,7 +639,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Ching-Chun Huang, Hung-Nguyen Manh, Tai-Hwei Hwang
-  date: 2014-04
+  date: '2014-04-01'
   image: ''
   publisher: ' IEEE International Symposium on Bioelectronics and Bioinformatics'
   title: Distinguishing Normal and Pulmonary Edema Chest X-Ray Using Gabor Filter
@@ -648,7 +648,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Ching-Chun Huang, Nguyen Manh Hung, and Atul Kumar
-  date: 2013-12
+  date: '2013-12-01'
   image: ''
   publisher: International Conference on Connected Vechicles & Expo
   title: 'Vehicle Trajectory Prediction across Non-overlapping Camera Networks '
@@ -656,7 +656,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Ching-Chun Huang*, and De-Kai Huang
-  date: 2013-11
+  date: '2013-11-01'
   image: ''
   publisher: International conference on control automation & information sciences
   title: A Hybrid Method for 3D Instrument Reconstruction and Tracking in Laparoscopy
@@ -665,7 +665,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: 'Ching-Chun Huang*, Yu-Shu Dai and Sheng-Jyh Wang '
-  date: 2013-02
+  date: '2013-02-01'
   image: ''
   publisher: IS&T/SPIE Electronic Imaging Symposium 2013
   title: A Study of Non-diagonal Models for Image White Balance
@@ -673,7 +673,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: ' Shih-Ming Huang, Ching-Chun Huang, Cheng-Chuan Chou,'
-  date: 2012-11
+  date: '2012-11-01'
   image: ''
   publisher: IEEE International Conference on ITS Telecommunications (ITST)
   title: A Surface-based Vacant Space Detection for an Intelligent Parking Lot
@@ -681,7 +681,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Ching-chun Huang*, Jay Choub, Jia-hau Shiub, Sheng-Jyh Wangb
-  date: 2012-11
+  date: '2012-11-01'
   image: ''
   publisher: 'IEEE International Conference on ITS Telecommunications '
   title: Image Registration among UAV Image Sequence and Google Satellite Image Under
@@ -690,7 +690,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Ching-Chun Huang, Sheng-Jyh Wang
-  date: 2012-01
+  date: '2012-01-01'
   image: ''
   publisher: Proceeding of IS&T/SPIE Electronic Imaging
   title: Multi-view Face Detection Based on Position Estimation over Multi-camera
@@ -699,7 +699,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Ching-Chun Huang, Wei-Chen Chiu, Sheng-Jyh Wang, and Jen-Hui Chuang
-  date: 2010-09
+  date: '2010-09-01'
   image: ''
   publisher: IEEE International Conference on International Conference Image Processing
   title: A Cascaded Hierarchical Framework for Moving Object Detection and Tracking
@@ -707,7 +707,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Ching-Chun Huang and Sheng-Jyh Wang
-  date: 2010-08
+  date: '2010-08-01'
   image: ''
   publisher: IEEE International Conference on Pattern Recognition
   title: Probabilistic Modeling of Dynamic Traffic Flow across Non-overlapping Camera
@@ -717,7 +717,7 @@
   file: sources.yaml
 - authors: Arvind Kandhalu, Anthony Rowe, Ragunathan Rajkumar, Ching-Chun Huang, and
     Chao-Chun Yeh
-  date: 2009-06
+  date: '2009-06-01'
   image: ''
   publisher: IEEE International Conference on Multimedia and Expo
   title: Moving Targets Labeling and Correspondence over Multi-Camera Surveillance
@@ -726,7 +726,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Ching-Chun Huang and Sheng-Jyh Wang
-  date: 2009-04
+  date: '2009-04-01'
   image: ''
   publisher: IEEE International Real-Time and Embedded Technology and Applications
     Symposium
@@ -735,7 +735,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Ching-Chun Huang, Sheng-Jyh Wang, Yao-Jen Chang, and Tsuhan Chen
-  date: 2008-08
+  date: '2008-08-01'
   image: ''
   publisher: European Conference on Computer Vision (ECCV) Workshop on Multi-camera
     and Multi-modal Sensor Fusion Algorithms and Application
@@ -745,7 +745,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Ming-Yu Shih, Yao-Jen Chang, Bwo-Chau Fu, and Ching-Chun Huang
-  date: 2008-03
+  date: '2008-03-01'
   image: ''
   publisher: IEEE International Conference on Acoustics, Speech, and Signal Processing
     (
@@ -754,7 +754,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Q. Wu, Ching-Chun Huang, S.Y. Wang, W.C. Chiu, and T. Chen
-  date: 2007-08
+  date: '2007-08-01'
   image: ''
   publisher: First International Workshop on Multimedia Analysis and Processing
   title: Motion-based Background Modeling for Moving Object Detection on Moving Platforms
@@ -762,7 +762,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Ching-Chun Huang and Cheng Yi Liu
-  date: 2007-07
+  date: '2007-07-01'
   image: ''
   publisher: IEEE International Conference on Multimedia and Expo
   title: Robust Parking Space Detection Considering Inter-space Correlation
@@ -770,7 +770,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Y. H. Tsai and Ching-Chun Huang
-  date: 2005-03
+  date: '2005-03-01'
   image: ''
   publisher: Proceedings of SPIE
   title: Novel Illumination-Normalization Method Based on Region Information
@@ -778,7 +778,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: nan
-  date: 2003-11
+  date: '2003-11-01'
   image: ''
   publisher: Digital Image Computing - Techniques and Applications
   title: Handheld Person Verification System Using Face Image
