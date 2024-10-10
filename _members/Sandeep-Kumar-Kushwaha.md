@@ -1,7 +1,7 @@
 ---
 name: Sandeep Kumar Kushwaha 
-image: images/members/Sandeep Kumar Kushwaha.jpg 
-role: master
+image: images/members/intern10602.jpg 
+role: alumni
 group: alum
 links:
   github: link_to_github 

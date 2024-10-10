@@ -1,6 +1,6 @@
 ---
 name: Doan Ngoc Phu 
-image: images/members/Doan Ngoc Phu.jpg 
+image: images/members/313540012.jpg 
 role: master
 group: alum
 links:

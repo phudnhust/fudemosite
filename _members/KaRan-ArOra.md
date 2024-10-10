@@ -1,7 +1,7 @@
 ---
 name: KaRan ArOra 
-image: images/members/KaRan ArOra.jpg 
-role: master
+image: images/members/intern10603.jpg 
+role: alumni
 group: alum
 links:
   github: link_to_github 

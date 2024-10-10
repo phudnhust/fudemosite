@@ -6,6 +6,10 @@ prof:
   icon: fa-solid fa-microscope
   description: Advisor
 
+alumni:
+  icon: fa-user-group
+  description: Alumni
+
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher

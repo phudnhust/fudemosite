@@ -1,7 +1,7 @@
 ---
 name: Le Tuan Dung 
-image: images/members/Le Tuan Dung.jpg 
-role: master
+image: images/members/intern10718.jpg 
+role: alumni
 group: alum
 links:
   github: link_to_github 

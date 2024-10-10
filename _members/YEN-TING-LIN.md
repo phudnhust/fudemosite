@@ -1,6 +1,6 @@
 ---
 name: 林彥廷 YEN-TING LIN 
-image: images/members/YEN-TING LIN.jpg 
+image: images/members/603415124.jpg 
 role: master
 group: alum
 links:

@@ -1,6 +1,6 @@
 ---
 name: 戴大鈞 Ta-Chun Ta 
-image: images/members/Ta-Chun Ta.jpg 
+image: images/members/310581024.jpg 
 role: master
 group: alum
 links:

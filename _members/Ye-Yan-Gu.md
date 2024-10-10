@@ -1,6 +1,6 @@
 ---
 name: 葉彥谷 Ye Yan-Gu (Ricky)
-image: images/members/Ye Yan-Gu.jpg
+image: images/members/313581027.jpg
 role: master
 group: alum
 links:

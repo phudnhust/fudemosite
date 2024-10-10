@@ -1,7 +1,7 @@
 ---
 name: 黃義凱 Yi-Kai Huang 
-image: images/members/Yi-Kai Huang.jpg 
-role: master
+image: images/members/1101304142.jpg 
+role: alumni
 group: alum
 links:
   github: link_to_github 

@@ -1,6 +1,6 @@
 ---
 name: Luu Van Tin 
-image: images/members/Luu Van Tin.jpg 
+image: images/members/312540004.jpg 
 role: master
 group: alum
 links:

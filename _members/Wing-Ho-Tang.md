@@ -1,6 +1,6 @@
 ---
 name: 鄧永豪 Wing-Ho Tang 
-image: images/members/Wing-Ho Tang.jpg 
+image: images/members/310551004.jpg 
 role: master
 group: alum
 links:

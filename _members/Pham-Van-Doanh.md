@@ -1,7 +1,7 @@
 ---
 name: Pham Van Doanh 
-image: images/members/Pham Van Doanh.jpg 
-role: master
+image: images/members/intern10711.jpg 
+role: alumni
 group: alum
 links:
   github: link_to_github 

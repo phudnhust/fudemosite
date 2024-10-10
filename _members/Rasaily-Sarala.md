@@ -1,7 +1,7 @@
 ---
 name: Rasaily Sarala 
-image: images/members/Rasaily Sarala.jpg 
-role: master
+image: images/members/intern10601.jpg 
+role: alumni
 group: alum
 links:
   github: link_to_github 

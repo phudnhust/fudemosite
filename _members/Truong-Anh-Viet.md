@@ -1,7 +1,7 @@
 ---
 name: Truong Anh Viet 
-image: images/members/Truong Anh Viet.jpg 
-role: master
+image: images/members/intern10716.jpg 
+role: alumni
 group: alum
 links:
   github: link_to_github 
