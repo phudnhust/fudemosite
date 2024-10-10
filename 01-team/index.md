@@ -29,6 +29,12 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
+{% include section.html background="images/background.jpg" dark=true%}
+
+Come join us! We encourage all to apply.
+
+{% include link.html icon="fas fa-users" text="Join the Team" link="05-join-us/" style="button" %} {:.center}
+
 ## Alumnus
 
 {% include list.html data="members" component="portrait" filters="role: alumni" %}
