@@ -40,6 +40,8 @@ Come join us! We encourage all to apply.
   link="05-join-us/"
 %}
 
+{% include section.html %}
+
 ## Alumnus
 
 {% include list.html data="members" component="portrait" filters="role: alumni" %}
