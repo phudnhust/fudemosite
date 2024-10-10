@@ -1,6 +1,7 @@
 # site properties and page defaults
-title: DemoLabSite
-description: This is website of DemoLabSite
+title: ACM Lab
+subtitle: 應用運算與多媒體實驗室
+description: ACM Lab - National Yang Ming Chiao Tung University
 header: images/background.jpg
 footer: images/background.jpg
 
@@ -10,7 +11,7 @@ links:
   orcid: 0000-0002-4382-5083
   google-scholar: xTdexhsAAAAJ
   github: nycu-acm
-  youtube: phudnhustDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  youtube: watch?v=G3acoF0FLWw
 
 ### jekyll settings
 
