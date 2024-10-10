@@ -37,6 +37,8 @@ Besides, we also try to build an international environment in our lab, you may f
 
 ## Highlights
 
+{% include list.html data="posts" component="post-excerpt" lookup="Boosting Diffusion" style="small"%}
+
 <!--- Part "Our research" -->
 
 {% capture text %}
@@ -82,7 +84,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   image="images/photo.jpg"
   link="03-publications"
   title="Our Publications"
-  flip=true
   style="bare"
   text=text
 %}
