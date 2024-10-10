@@ -33,7 +33,12 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 Come join us! We encourage all to apply.
 
-{% include link.html icon="fas fa-users" text="Join the Team" link="05-join-us/" style="button" %} {:.center}
+{%
+  include button.html
+  type="link"
+  tooltip="Join us"
+  link="05-join-us/"
+%}
 
 ## Alumnus
 
