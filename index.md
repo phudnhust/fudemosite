@@ -19,14 +19,14 @@ Besides, we also try to build an international environment in our lab, you may f
   include button.html
   tooltip="GitHub"
   text="GitHub"
-  icon="github"
+  icon="fa-brands fa-github"
   link="https://github.com/nycu-acm"
 %}
 {%
   include button.html
   tooltip="Our fanpage"
   text="Fanpage"
-  icon="facebook"
+  icon="fa-brands fa-facebook"
   link="https://www.facebook.com/profile.php?id=100057112133591"
 %}
 
