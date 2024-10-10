@@ -29,14 +29,14 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
-{% include section.html background="images/background.jpg" dark=true%}
+{% include section.html background="images/background.jpg" dark=true %}
 
 Come join us! We encourage all to apply.
 
 {%
   include button.html
   type="link"
-  tooltip="Join us"
+  text="Join us"
   link="05-join-us/"
 %}
 

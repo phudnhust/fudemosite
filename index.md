@@ -31,7 +31,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
-  style="bare"
 %}
 
 {% endcapture %}
@@ -56,7 +55,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text="Browse our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
-  style="bare"
 %}
 
 {% endcapture %}
@@ -83,7 +81,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text="Meet our team"
   icon="fa-solid fa-arrow-right"
   flip=true
-  style="bare"
 %}
 
 {% endcapture %}
