@@ -7,13 +7,28 @@ title: Home
 {% include img-slideshow.html %}
 
 {% include section.html %}
-# DemoSiteLab - National ABC University
+# ACM Lab - National Yang Ming Chiao Tung University
 
-DemoSiteLab was formed on the 1 August 2018, with a research focus on computer vision and deep learning. It is now a group with three faculty members and more than 40 members including research fellows, research assistants, research engineers and PhD students.
+Our lab works on a wide range of projects in computer vision and multimedia. Currently, we employ advanced machine learning techniques such as deep learning to develop our systems.
 
-Members in DemoSiteLab conduct research primarily in low-level vision, image and video understanding, and generative AI. Have a look at the overview of our research. All publications are listed here.
+Some of our applications include museum guidance, autonomous vehicle, parking lot management system ... Most of them are confirmed and supported by industry. Through the process of completing the projects, the student will be equipped the self-studying ability as well as the teamwork skill to adapt to an ever-changing world.
 
-We are always looking for motivated PhD students, postdocs, research assistants who have the same interests like us. Check out the careers page and follow us on Twitter.
+Besides, we also try to build an international environment in our lab, you may find that our lab members come from many countries such as Taiwan, Vietnam and Indonesia. Therefore, working in our lab, you also can experience different cultures.
+
+{%
+  include button.html
+  tooltip="GitHub"
+  text="GitHub"
+  icon="fa-solid github"
+  link="https://github.com/nycu-acm"
+%}
+{%
+  include button.html
+  tooltip="Our fanpage"
+  text="Fanpage"
+  icon="fa-solid facebook"
+  link="https://www.facebook.com/profile.php?id=100057112133591"
+%}
 
 {% include section.html %}
 
