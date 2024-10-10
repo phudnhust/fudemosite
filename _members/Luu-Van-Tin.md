@@ -1,7 +1,7 @@
 ---
-name: Luu Van Tin 
+name: 劉萬信 Luu Van Tin 
 image: images/members/312540004.jpg 
-role: master
+role: phd
 group: alum
 links:
   github: link_to_github 
