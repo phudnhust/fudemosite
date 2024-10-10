@@ -11,7 +11,7 @@ def main(entry):
     """
 
     # orcid api
-    endpoint = "" #"https://pub.orcid.org/v3.0/$ORCID/works"
+    endpoint = "https://pub.orcid.org/v3.0/$ORCID/works"
     headers = {"Accept": "application/json"}
 
     # get id from entry
