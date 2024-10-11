@@ -13,29 +13,16 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {%
   include button.html
   type="link"
-  text="International Conferences"
-  link="03-publications/#international-conferences"
+  text="International Journals"
+  link="03-publications/#international-journals"
 %}
 
 {%
   include button.html
   type="link"
-  text="International Journals"
-  link="03-publications/#international-journals"
+  text="International Conferences"
+  link="03-publications/#international-conferences"
 %}
-
-
-{% include section.html %}
-
-{% include section.html %}
-
-## International Conferences
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" filters="type: paper" %}
 
 {% include section.html %}
 
@@ -46,3 +33,13 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {% include search-info.html %}
 
 {% include list.html data="citations" component="citation" style="rich" filters="type: journal" %}
+
+{% include section.html %}
+
+## International Conferences
+
+{% include search-box.html %}
+
+{% include search-info.html %}
+
+{% include list.html data="citations" component="citation" style="rich" filters="type: paper" %}
