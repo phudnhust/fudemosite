@@ -13,7 +13,7 @@
 - authors: Nguyen, Manh-Hung; Chao, Tzu-Yin; Hsiao, Ching-Chun; Li, Yung-Hui; Huang,
     Ching-Chun
   date: '2023-10-09'
-  image: images/international-journals/02-Self-Supervise.gif
+  image: images/international-journals/02-Self-Supervise.jpg
   publisher: ' IEEE Transactions on Intelligent Transportation Systems'
   title: Self-Supervise Reinforcement Learning Method for Vacant Parking Space Detection
     based on Task Consistency and Corrupted Rewards
@@ -33,7 +33,7 @@
 - authors: Sin-Han Huang, Tzu-Yin Chao, Beatrice Adelaide Wibisono, Mark Po-Hung Lin
     and Ching-Chun Huang
   date: '2023-05-08'
-  image: images/international-journals/04-ssioe.gif
+  image: images/international-journals/04-ssioe.jpg
   publisher: IEEE Transactions on Automation Science and Engineering
   title: 'SSIOE: Self-Supervised Indoor Occupancy Estimation for Intelligent Building
     Management'
@@ -43,7 +43,7 @@
 - authors: Chang, Ming-Jen; Cheng, Chih-Jen; Hsiao, Ching-Chun; Li, Yung-Hui; Huang,
     Ching-Chun
   date: '2023-04-26'
-  image: images/international-journals/05-svdnet.gif
+  image: images/international-journals/05-svdnet.jpg
   publisher: IEEE Transactions on Intelligent Transportation Systems
   title: 'SVDnet: Singular Value Control and Distance Alignment Network for 3D Object
     Detection'
@@ -61,7 +61,7 @@
   file: sources.yaml
 - authors: Tso Yuan Chen, Ching Chun Hsiao and Ching-Chun Huang
   date: '2022-03-01'
-  image: images/international-journals/07-density.gif
+  image: images/international-journals/07-density.jpg
   publisher: ' IEEE Transactions on Intelligent Vehicles'
   title: Density-imbalance-eased LiDAR Point Cloud Upsampling via Feature Consistency
     Learning
@@ -108,7 +108,7 @@
   file: sources.yaml
 - authors: Yong-Xiang Lin, Daniel Tan, Yung-Yao Chen, Ching-Chun Huang, Kai-Lung Hua
   date: '2020-07-01'
-  image: images/international-journals/11-domain.gif
+  image: images/international-journals/11-domain.jpg
   publisher: ' IEEE MultiMedia Magazine'
   title: Domain Adaptation with Foreground/Background Cues and Gated Discriminators
   type: journal
@@ -142,7 +142,7 @@
   file: sources.yaml
 - authors: Ching-chun Hunag and Hung Nguyen Manh
   date: '2016-02-03'
-  image: images/international-journals/15-rss.gif
+  image: images/international-journals/15-rss.jpg
   publisher: IEEE Sensors Journal
   title: RSS-Based Indoor Positioning Based on Multi-Dimensional Kernel Modeling and
     Weighted Average Tracking
@@ -152,7 +152,7 @@
 - authors: Yen-Yu Wang, Atul Kumar, Kai-Che Liu, Shih-Wei Huang, Ching-Chun Huang,
     Wei-Chia Su, Fu-Li Hsiao & Wen-Nung Lie
   date: '2016-07-15'
-  image: images/international-journals/16-stereoscope.gif
+  image: images/international-journals/16-stereoscope.jpg
   publisher: Third International Conference on Robot, Vision and Signal Processing
     (RVSP)
   title: 'Stereoscopic Augmented Reality for Single Camera Endoscope Using Optical
@@ -171,7 +171,7 @@
   file: sources.yaml
 - authors: Ching-chun Huang, Yu-Shu Tai, and Sheng-Jyh Wang
   date: '2013-03-27'
-  image: images/international-journals/18-vacant.gif
+  image: images/international-journals/18-vacant.jpg
   publisher: IEEE Transactions on Circuits and Systems for Video Technology
   title: Vacant Parking Space Detection Based on Plane-Based Bayesian Hierarchical
     Framework
@@ -189,7 +189,7 @@
   file: sources.yaml
 - authors: Ching-Chun Huang, Sheng-Jyh Wang
   date: '2011-08-01'
-  image: images/international-journals/20-bayesian.gif
+  image: images/international-journals/20-bayesian.jpg
   publisher: IEEE Transactions on Automation Science and Engineering
   title: A Bayesian Hierarchical Framework for Multitarget Labeling and Correspondence
     With Ghost Suppression Over Multicamera Surveillance System
@@ -198,7 +198,7 @@
   file: sources.yaml
 - authors: Ching-Chun Huang, and Sheng-Jyh Wang
   date: '2010-12-01'
-  image: images/international-journals/21-hierarchy.gif
+  image: images/international-journals/21-hierarchy.jpg
   publisher: IEEE Transactions on Circuits and Systems for Video Technology
   title: A Hierarchical Bayesian Generation Framework for Vacant Parking Space Detection
   type: journal
@@ -272,7 +272,7 @@
   file: sources.yaml
 - authors: Chi-Han Chen, Chieh-Ming Chen, Wen-Huang Cheng, Ching-Chun Huang
   date: '2024-10-01'
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10647221/10647122/10647662/chen1-0000984-large.gif
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10647221/10647122/10647662/chen1-0000984-large.jpg
   publisher: "2024 \nIEEE International Conference on Image Processing (ICIP)"
   title: 'AERIAL VIEW RIVER LANDFORM VIDEO SEGMENTATION: A WEAKLY SUPERVISED CONTEXT-AWARE
     TEMPORAL CONSISTENCY DISTILLATION APPROACH'
@@ -281,7 +281,7 @@
   file: sources.yaml
 - authors: Yu Wei Chen, Huu Phu Do, Chia Wei Kuo, Hsuan Tung Liu, Ching Chun Huang
   date: '2024-10-01'
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10647221/10647122/10647914/chen2-0002375-small.gif
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10647221/10647122/10647914/chen2-0002375-small.jpg
   publisher: "2024 \nIEEE International Conference on Image Processing (ICIP)"
   title: 'LIPFACE: LIPSCHITZ-CONDITIONED FOR RESOLUTION ROBUST FACE RECOGNITION'
   type: paper
@@ -290,7 +290,7 @@
 - authors: Hsuan Yuan, Shao-Yu Weng, I-Hsuan Lo, Wei-Chen Chiu, Yu-Syuan Xu, Hao-Chien
     Hsueh, Jen-Hui Chuang, Ching-Chun Huang
   date: '2024-10-01'
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10647221/10647122/10647237/yuan1-0001514-large.gif
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10647221/10647122/10647237/yuan1-0001514-large.jpg
   publisher: "2024 \nIEEE International Conference on Image Processing (ICIP)"
   title: 'Two Heads Better than One: Dual Degradation Representation for Blind Super-Resolution'
   type: paper
@@ -298,7 +298,7 @@
   file: sources.yaml
 - authors: Shao-Yu Weng, Hsuan Yuan, Yu-Syuan Xu, Ching-Chun Huang, Wei-Chen Chiu
   date: '2024-01-01'
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10483279/10483282/10484031/weng1-p10-weng-large.gif
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10483279/10483282/10484031/weng1-p10-weng-large.jpg
   publisher: 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
   title: 'Best of Both Worlds: Learning Arbitrary-scale Blind Super-Resolution via
     Dual Degradation Representations and Cycle-Consistency'
@@ -307,7 +307,7 @@
   file: sources.yaml
 - authors: Cheng Huang, Yi-Lun Wu, Hong-Han Shuai, Ching-Chun Huang
   date: '2024-01-01'
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10483279/10483282/10484101/huang1-p10-huang-large.gif
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10483279/10483282/10484101/huang1-p10-huang-large.jpg
   publisher: 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
   title: 'Semantic Fusion Augmentation and Semantic Boundary Detection: A Novel Approach
     to Multi-Target Video Moment Retrieval'
@@ -316,7 +316,7 @@
   file: sources.yaml
 - authors: Yi Ting Tsai, Yu Wei Chen, Hong-Han Shuai, Ching-Chun Huang
   date: '2024-01-01'
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10483279/10483282/10483821/tsai1-p10-tsai-large.gif
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10483279/10483282/10483821/tsai1-p10-tsai-large.jpg
   publisher: 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
   title: Arbitrary-Resolution and Arbitrary-Scale Face Super-Resolution with Implicit
     Representation Networks
@@ -326,7 +326,7 @@
 - authors: Zhi-Yi Chin, Chieh-Ming Jiang, Ching-Chun Huang, Pin-Yu Chen, Wei-Chen
     Chiu
   date: '2024-01-01'
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10483279/10483282/10483950/chin1-p10-chin-large.gif
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10483279/10483282/10483950/chin1-p10-chin-large.jpg
   publisher: 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
   title: Masking Improves Contrastive Self-Supervised Learning for ConvNets, and Saliency
     Tells You Where
@@ -346,7 +346,7 @@
 - authors: Hsin-Ju Lin, Tsu-Chun Chung, Ching-chun Hsiao, Pin-Yu Chen, Wei-Chen Chiu,
     Ching-Chun Huang
   date: '2023-10-01'
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10341341/10341342/10342419/10342419-fig-2-source-small.gif
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10341341/10341342/10342419/10342419-fig-2-source-small.jpg
   publisher: 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems
     (IROS)
   title: 'MENTOR: Multilingual tExt detectioN TOward leaRning by analogy'
