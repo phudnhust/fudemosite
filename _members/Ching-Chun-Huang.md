@@ -4,6 +4,7 @@ image: images/members/chingchun.jpg
 role: prof
 aliases:
   - ching chun huang
+  - ching-chun huang
 links:
   home-page: https://acm.cs.nycu.edu.tw/
   email: chingchun@cs.nycu.edu.tw
