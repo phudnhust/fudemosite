@@ -64,10 +64,16 @@
           {{- citation.publisher | default: "[no publisher info]" -}}
         </span>
         &nbsp;·&nbsp;
-        <span class="citation-date">
-          {{- citation.date | default: "[no date info]" | date: "%d %b %Y" -}}
+        <!-- <span class="citation-date">
+          {{- citation.date | default: "" | date: "%d %b %Y" -}}
         </span>
-        &nbsp;·&nbsp;
+        <span class="citation-date">
+          {{- citation.date | default: "" | date: "%b %Y" -}}
+        </span>
+        <span class="citation-date">
+          {{- citation.date | default: "" | date: "%Y" -}}
+        </span>
+        &nbsp;·&nbsp; -->
         <span class="citation-id">
           {{- citation.id | default: "[no id info]" -}}
         </span>

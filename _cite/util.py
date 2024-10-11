@@ -100,7 +100,13 @@ def format_date(_date):
     try:
         return datetime.strptime(_date, "%Y-%m-%d").strftime("%Y-%m-%d")
     except Exception:
-        return ""
+        try:
+            return datetime.strptime(_date, "%Y-%m").strftime("%Y-%m")
+        except Exception:
+            try:
+                return datetime.strptime(_date, "%Y").strftime("%Y")
+            except Exception:
+                return ""
 
 
 def load_data(path):
