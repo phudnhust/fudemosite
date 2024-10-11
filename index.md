@@ -37,7 +37,7 @@ Besides, we also try to build an international environment in our lab, you may f
 
 ## Highlights
 
-{% include list.html data="citations" component="post-excerpt" lookup="Boosting Diffusion" style="small"%}
+{% include citation.html lookup="Boosting Diffusion" style="rich" %}
 
 <!--- Part "Our research" -->
 
