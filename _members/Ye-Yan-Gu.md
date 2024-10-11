@@ -2,7 +2,8 @@
 name: 葉彥谷 Ye Yan-Gu (Ricky)
 image: images/members/313581027.jpg
 role: master
-group: alum
+aliases:
+  - yan gu ye
 links:
   github: shit6333
   website: https://quqland.com/
