@@ -4,5 +4,5 @@ image: images/members/313551073.jpg
 role: master
 group: alum
 links:
-  github: link_to_github 
+  github: miayan0110 
 ---

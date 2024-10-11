@@ -1,7 +1,7 @@
 ---
 name: Huynh Nic Pho 
 image: images/members/intern10712.jpg 
-role: alumni
+role: formerMem
 group: alum
 links:
   github: link_to_github 
