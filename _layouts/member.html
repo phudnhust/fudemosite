@@ -29,7 +29,7 @@ layout: default
 %}
 
 {% capture search -%}
-  03-publications/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
+  03-publications/?search={% for alias in aliases %}{{ alias }} {% endfor %}
 {%- endcapture %}
 
 <p class="center">
