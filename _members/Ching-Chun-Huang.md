@@ -15,6 +15,7 @@ links:
   facebook:
   instagram:
   linkedin:
+  github:
 ---
 
 ## Research Focus
