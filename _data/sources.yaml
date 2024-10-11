@@ -1,7 +1,7 @@
 - authors: Huu-Phu Do, Yan-An Chen, Nhat-Tuong Do-Tran, Kai-Lung Hua, Wen-Hsiao Peng
     & Ching-Chun Huang
   date: '2024'
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs00530-024-01272-5/MediaObjects/530_2024_1272_Fig1_HTML.png?as=webp
+  image: images/international-journals/01-indirect.webp
   publisher: Multimedia Systems
   title: 'INDIRECT: Invertible and Discrete Noisy Image Rescaling with Enhancement
     fromCase-dependent Textures'
@@ -9,7 +9,7 @@
 - authors: Nguyen, Manh-Hung; Chao, Tzu-Yin; Hsiao, Ching-Chun; Li, Yung-Hui; Huang,
     Ching-Chun
   date: '2023-10-09'
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/6979/10419116/10274687/huang1-3319531-large.gif
+  image: images/international-journals/02-Self-Supervise.gif
   publisher: ' IEEE Transactions on Intelligent Transportation Systems'
   title: Self-Supervise Reinforcement Learning Method for Vacant Parking Space Detection
     based on Task Consistency and Corrupted Rewards
@@ -17,7 +17,7 @@
 - authors: Da-Wei Jaw,  Shih-Chia Huang,  I-Chuan Lin,  Cheng Zhang, Ching-Chun Huang,
     Sy-Yen Kuo
   date: '2023-08-01'
-  image: https://ieeexplore.ieee.org/ielx7/7361/10198840/10144555/graphical_abstract/jsen-gagraphic-3281399.jpg
+  image: images/international-journals/03-rodnet.jpg
   publisher: 'IEEE Sensors Journal '
   title: 'RodNet: An Advanced Multi-Domain Object Detection Approach using Feature
     Transformation with Generative Adversarial Networks'
@@ -25,7 +25,7 @@
 - authors: Sin-Han Huang, Tzu-Yin Chao, Beatrice Adelaide Wibisono, Mark Po-Hung Lin
     and Ching-Chun Huang
   date: '2023-05-08'
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/8856/10631719/10121910/huang3-3273151-large.gif
+  image: images/international-journals/04-ssioe.gif
   publisher: IEEE Transactions on Automation Science and Engineering
   title: 'SSIOE: Self-Supervised Indoor Occupancy Estimation for Intelligent Building
     Management'
@@ -33,21 +33,21 @@
 - authors: Chang, Ming-Jen; Cheng, Chih-Jen; Hsiao, Ching-Chun; Li, Yung-Hui; Huang,
     Ching-Chun
   date: '2023-04-26'
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/6979/10235283/10109184/huang1-3267665-small.gif
+  image: images/international-journals/05-svdnet.gif
   publisher: IEEE Transactions on Intelligent Transportation Systems
   title: 'SVDnet: Singular Value Control and Distance Alignment Network for 3D Object
     Detection'
   type: journal
 - authors: Ting-Wei Cheng, Jerry Chang, Ching-Chun Huang, Chin Kuo, Yun-Chien Cheng
   date: '2022-04-08'
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S240584402303267X-gr1.jpg
+  image: images/international-journals/06-feature.jpg
   publisher: Heliyon
   title: Feature-enhanced Adversarial Semi-supervised Semantic Segmentation Network
     for Pulmonary Embolism Annotation  
   type: journal
 - authors: Tso Yuan Chen, Ching Chun Hsiao and Ching-Chun Huang
   date: '2022-03-01'
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/7274857/10130133/9743721/huang1-3162672-small.gif
+  image: images/international-journals/07-density.gif
   publisher: ' IEEE Transactions on Intelligent Vehicles'
   title: Density-imbalance-eased LiDAR Point Cloud Upsampling via Feature Consistency
     Learning
@@ -55,7 +55,7 @@
 - authors: Ching-Kai Lin, Jerry Chang, Ching-Chun Huang, Yueh-Feng Wen, Chao-Chi Ho,
     Yun-Chien Cheng0
   date: '2021-11-01'
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8683546/bin/CAM4-10-9047-g001.jpg
+  image: images/international-journals/08-effectiveness.jpg
   publisher: 'Cancer Cytopathology(Editor-in-Chief: William C. Faquin, MD, PhD
 
 
@@ -69,7 +69,7 @@
   type: journal
 - authors: Manh-Hung Nguyen, Ching-Chun Hsiao, Wen-Huang Cheng, and Ching-Chun Huang
   date: 2021/9/6接受
-  image: https://www.researchgate.net/publication/355485340/figure/fig1/AS:1145669540679680@1650160312334/Challenges-in-a-Kinect-based-tracking-system-a-The-left-right-problem-the-yellow-lines.png
+  image: images/international-journals/09-practical.png
   publisher: 'Multimedia Systems: (IF 1.563 ,89/307)'
   title: Practical 3D Human Skeleton Tracking based on Multi-view and Multi-Kinect
     Fusion
@@ -78,7 +78,7 @@
 
     Ching-Chun Huang, Cheng Zhang, Benjamin Fung, Kai-Han Cheng, Sha-Wo Huang'
   date: '2021-07-01'
-  image: https://www.mdpi.com/sensors/sensors-21-05391/article_deploy/html/images/sensors-21-05391-g001.png
+  image: images/international-journals/10-advance.webp
   publisher: ' Sensors Impact Factor 2020: 3.576
 
     Sensors CiteScore 2020: 5.8'
@@ -86,33 +86,33 @@
   type: journal
 - authors: Yong-Xiang Lin, Daniel Tan, Yung-Yao Chen, Ching-Chun Huang, Kai-Lung Hua
   date: '2020-07-01'
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/93/9186210/9138693/hua1-3008529-large.gif
+  image: images/international-journals/11-domain.gif
   publisher: ' IEEE MultiMedia Magazine'
   title: Domain Adaptation with Foreground/Background Cues and Gated Discriminators
   type: journal
 - authors: Ching-Chun Huang, and Hung-Nguyen Manh
   date: '2018-08-16'
-  image: https://dt5vp8kor0orz.cloudfront.net/8a9b3a5e4fa78dc1198a0d2db90ab77d57debf9f/1-Figure1-1.png
+  image: images/international-journals/12-xray.png
   publisher:  IEEE Transactions on Image Processing
   title: X-Ray Enhancement Based on Component Attenuation, Contrast Adjustment, and
     Image Fusion
   type: journal
 - authors: Hoang Tran Vu, Ching-Chun Huang
   date: '2018-04-12'
-  image: https://dt5vp8kor0orz.cloudfront.net/fe90aa9b09666327cdcb4a9e7a182c20fbd58eaf/1-Figure1-1.png
+  image: images/international-journals/13-parking.png
   publisher:  IEEE Transactions on Circuits and Systems for Video Technology
   title: Parking Space Status Inference upon a Deep CNN and Multi-task Contrastive
     Network with Spatial Transform
   type: journal
 - authors: Chingchun Huang and Hoang Tran Vu
   date: '2016-05-06'
-  image: https://dt5vp8kor0orz.cloudfront.net/578ae2368d477b3ac24fec7273804fe62224e51d/1-Figure1-1.png
+  image: images/international-journals/14-vacant.png
   publisher: IEEE Transactions on Circuits and Systems for Video Technology
   title: Vacant Parking Space Detection Based on a Multilayer Inference Framework
   type: journal
 - authors: Ching-chun Hunag and Hung Nguyen Manh
   date: '2016-02-03'
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/7361/7434662/7397867/huang4-2524537-large.gif
+  image: images/international-journals/15-rss.gif
   publisher: IEEE Sensors Journal
   title: RSS-Based Indoor Positioning Based on Multi-Dimensional Kernel Modeling and
     Weighted Average Tracking
@@ -120,7 +120,7 @@
 - authors: Yen-Yu Wang, Atul Kumar, Kai-Che Liu, Shih-Wei Huang, Ching-Chun Huang,
     Wei-Chia Su, Fu-Li Hsiao & Wen-Nung Lie
   date: '2016-07-15'
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/7397292/7398743/7399146/7399146-fig-1-source-large.gif
+  image: images/international-journals/16-stereoscope.gif
   publisher: Third International Conference on Robot, Vision and Signal Processing
     (RVSP)
   title: 'Stereoscopic Augmented Reality for Single Camera Endoscope Using Optical
@@ -128,35 +128,35 @@
   type: journal
 - authors: Hung Nguyen Manh, Ching-Chun Huang and Lee Hsiao-Yi 1
   date: '2015-11-18'
-  image: nan
+  image: images/international-journals/nan
   publisher: Wireless Communications and Mobile Computing
   title: Landmark‐based device calibration and region‐based modeling for RSS‐based
     localization
   type: journal
 - authors: Ching-chun Huang, Yu-Shu Tai, and Sheng-Jyh Wang
   date: '2013-03-27'
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/76/6588337/6488793/6488793-fig-2-source-large.gif
+  image: images/international-journals/18-vacant.gif
   publisher: IEEE Transactions on Circuits and Systems for Video Technology
   title: Vacant Parking Space Detection Based on Plane-Based Bayesian Hierarchical
     Framework
   type: journal
 - authors: Ching-Chun Huang* and Li-Chun Wang
   date: '2012-04-01'
-  image: https://dt5vp8kor0orz.cloudfront.net/e53c0d15b651e90b3a3d2f17da89392947a6d19a/2-Figure1-1.png
+  image: images/international-journals/19-dynamic.png
   publisher: IEEE Wireless Communications Letters
   title: Dynamic Sampling Rate Adjustment for Compressive Spectrum Sensing over Cognitive
     Radio Network
   type: journal
 - authors: Ching-Chun Huang, Sheng-Jyh Wang
   date: '2011-08-01'
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/8856/6112271/6004848/6004848-fig-2-source-large.gif
+  image: images/international-journals/20-bayesian.gif
   publisher: IEEE Transactions on Automation Science and Engineering
   title: A Bayesian Hierarchical Framework for Multitarget Labeling and Correspondence
     With Ghost Suppression Over Multicamera Surveillance System
   type: journal
 - authors: Ching-Chun Huang, and Sheng-Jyh Wang
   date: '2010-12-01'
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/76/5704816/5604282/5604282-fig-2-source-large.gif
+  image: images/international-journals/21-hierarchy.gif
   publisher: IEEE Transactions on Circuits and Systems for Video Technology
   title: A Hierarchical Bayesian Generation Framework for Vacant Parking Space Detection
   type: journal
