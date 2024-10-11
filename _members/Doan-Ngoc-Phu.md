@@ -11,7 +11,7 @@ links:
   address: Engineering Building 3, NYCU
   orcid: 0000-0003-1047-0471
   google-scholar: abcdefgAAAAJ
-  youtube: @ngoc-phudoan7052
+  youtube: ngoc-phudoan7052
   facebook: myfacebookusername
   instagram: myinstagramusername
   linkedin: mylinkedinusername
