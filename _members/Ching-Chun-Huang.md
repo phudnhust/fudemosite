@@ -2,9 +2,11 @@
 name: 黃敬群 Ching-Chun Huang 
 image: images/members/chingchun.jpg 
 role: prof
-group: alum
+aliases:
+  - Ching-Chun Huang
 links:
-  github: link_to_github 
+  homepage: https://acm.cs.nycu.edu.tw/
+  email: chingchun@cs.nycu.edu.tw
 ---
 
 ## Research Focus
