@@ -2,7 +2,8 @@
 name: 阮青發 Nguyen-ThanhPhat 
 image: images/members/605415159.jpg 
 role: Alimni
-group: alum
+aliases:
+  - thanh phat nguyen
 links:
   github: link_to_github 
 ---

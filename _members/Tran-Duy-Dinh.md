@@ -2,7 +2,8 @@
 name: Tran Duy Dinh 
 image: images/members/000001.jpg 
 role: alumni
-group: alum
+aliases:
+  - duy dinh tran
 links:
   github: link_to_github 
 ---

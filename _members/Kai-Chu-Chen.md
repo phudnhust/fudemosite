@@ -2,7 +2,8 @@
 name: 陳凱筑 Kai-Chu Chen 
 image: images/members/1100104345.jpg 
 role: undergrad
-group: alum
+aliases:
+  - kai chu chen
 links:
   github: link_to_github 
 ---

@@ -2,7 +2,8 @@
 name: 黎光勝 Le Quang Thang 
 image: images/members/312540011.jpg 
 role: master
-group: alum
+aliases:
+  - quang thang le
 links:
   github: link_to_github 
 ---

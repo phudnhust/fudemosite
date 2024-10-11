@@ -2,7 +2,8 @@
 name: 葉松穎 Sung-Ying Yeh 
 image: images/members/1100104310.jpg 
 role: undergrad
-group: alum
+aliases:
+  - sung ying yeh
 links:
   github: link_to_github 
 ---

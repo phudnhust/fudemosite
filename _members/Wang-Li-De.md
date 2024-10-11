@@ -2,7 +2,8 @@
 name: 王力得 Wang Li-De 
 image: images/members/313551056.jpg 
 role: master
-group: alum
+aliases:
+  - li de wang
 links:
   github: link_to_github 
 ---

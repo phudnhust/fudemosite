@@ -2,7 +2,8 @@
 name: Ngo Duy Khanh 
 image: images/members/313540018.jpg 
 role: master
-group: alum
+aliases:
+  - duy khanh ngo
 links:
   github: link_to_github 
 ---

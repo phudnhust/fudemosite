@@ -2,7 +2,8 @@
 name: 戴大鈞 Ta-Chun Ta 
 image: images/members/310581024.jpg 
 role: master
-group: alum
+aliases:
+  - ta chun da
 links:
   github: link_to_github 
 ---

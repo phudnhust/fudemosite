@@ -2,7 +2,8 @@
 name: 陳志銘 CHEN,JHIH-MING 
 image: images/members/ChenJhihMing.jpg 
 role: alumni
-group: alum
+aliases:
+  - jhih ming chen
 links:
   github: link_to_github 
 ---

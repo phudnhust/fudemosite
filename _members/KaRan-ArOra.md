@@ -2,7 +2,9 @@
 name: KaRan ArOra 
 image: images/members/intern10603.jpg 
 role: alumni
-group: alum
+aliases:
+  - karan
+  - arora
 links:
   github: link_to_github 
 ---

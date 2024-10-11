@@ -2,7 +2,8 @@
 name: 陳俊凱 Jyun-Kai Chen 
 image: images/members/310551077.jpg 
 role: alumni
-group: alum
+aliases:
+  - jyun kai chen
 links:
   github: link_to_github 
 ---
