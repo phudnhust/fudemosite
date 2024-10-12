@@ -1,7 +1,7 @@
 ---
 name: 江梓豪 Tzu-Hao Chiang 
 image: images/members/309551116.jpg 
-role: master
+role: formerMem
 aliases:
   - tzu hao chiang
 links:
@@ -14,6 +14,6 @@ links:
   facebook:
   instagram:
   linkedin:
-  github: 
+  github:
 ---
 # Your text goes here

@@ -1,7 +1,7 @@
 ---
 name: 陳信樺 Shen-Hua Chen 
 image: images/members/1098104323.jpg 
-role: undergrad
+role: formerMem
 aliases:
   - shen hua chen
 links:
@@ -14,6 +14,6 @@ links:
   facebook:
   instagram:
   linkedin:
-  github: 
+  github:
 ---
 # Your text goes here

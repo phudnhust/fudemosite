@@ -1,7 +1,7 @@
 ---
 name: 張文彥 Wen-Yen Jong 
 image: images/members/403415010.jpg 
-role: undergrad
+role: formerMem
 aliases:
   - wen yen jong
 links:
@@ -14,6 +14,6 @@ links:
   facebook:
   instagram:
   linkedin:
-  github: 
+  github:
 ---
 # Your text goes here

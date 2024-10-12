@@ -1,7 +1,7 @@
 ---
 name: Turpuseema Pruthvi 
 image: images/members/000004.jpg 
-role: alumni
+role: formerMem
 aliases:
   - turpuseema
   - pruthvi

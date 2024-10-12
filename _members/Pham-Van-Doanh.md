@@ -1,7 +1,7 @@
 ---
 name: Pham Van Doanh 
 image: images/members/intern10711.jpg 
-role: alumni
+role: formerMem
 aliases:
   - van doanh pham
 links:

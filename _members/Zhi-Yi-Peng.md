@@ -1,7 +1,7 @@
 ---
 name: 彭子翊 Zhi-Yi Peng 
 image: images/members/605415112.jpg 
-role: master
+role: formerMem
 aliases:
   - zhi yi peng
 links:

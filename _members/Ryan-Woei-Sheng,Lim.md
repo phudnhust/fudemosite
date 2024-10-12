@@ -1,7 +1,7 @@
 ---
 name: Ryan Woei Sheng,Lim 
 image: images/members/intern10702.jpg 
-role: alumni
+role: formerMem
 aliases:
   - ryan woei sheng lim
 links:
@@ -14,6 +14,6 @@ links:
   facebook:
   instagram:
   linkedin:
-  github: 
+  github:
 ---
 # Your text goes here

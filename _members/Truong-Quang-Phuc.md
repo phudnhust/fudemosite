@@ -1,7 +1,7 @@
 ---
 name: Truong Quang Phuc 
 image: images/members/intern10714.jpg 
-role: alumni
+role: formerMem
 aliases:
   - quang phuc truong
 links:
@@ -14,6 +14,6 @@ links:
   facebook:
   instagram:
   linkedin:
-  github: 
+  github:
 ---
 # Your text goes here

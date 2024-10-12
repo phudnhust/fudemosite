@@ -6,9 +6,9 @@ prof:
   icon: fa-solid fa-microscope
   description: Advisor
 
-alumni:
-  icon: fa-user-group
-  description: Alumni
+formerMem:
+  icon: fa-solid fa-user-group
+  description: Former Member
 
 postdoc:
   icon: fa-solid fa-glasses

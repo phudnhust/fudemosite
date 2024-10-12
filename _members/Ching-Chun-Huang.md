@@ -9,6 +9,7 @@ links:
   home-page: https://acm.cs.nycu.edu.tw/
   email: chingchun@cs.nycu.edu.tw
   phone: 
+  address: Engineering Building 3, NYCU
   orcid: 0000-0002-4382-5083
   google-scholar: xTdexhsAAAAJ
   youtube: watch?v=G3acoF0FLWw

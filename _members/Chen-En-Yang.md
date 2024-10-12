@@ -1,7 +1,7 @@
 ---
 name: 楊境恩 Chen-En Yang 
 image: images/members/PHD-2.jpg 
-role: alumni
+role: formerMem
 aliases:
   - chen en yang
 links:

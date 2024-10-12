@@ -1,7 +1,7 @@
 ---
 name: Nova Budiyanta 
 image: images/members/intern10705.jpg 
-role: alumni
+role: formerMem
 aliases:
   - budiyanta
 links:

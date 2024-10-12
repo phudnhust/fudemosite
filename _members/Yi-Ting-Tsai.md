@@ -1,7 +1,7 @@
 ---
 name: 蔡宜庭 Yi-Ting Tsai 
 image: images/members/309551174.jpg 
-role: master
+role: formerMem
 aliases:
   - yi ting tsai
 links:
@@ -14,6 +14,6 @@ links:
   facebook:
   instagram:
   linkedin:
-  github: 
+  github:
 ---
 # Your text goes here

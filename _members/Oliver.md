@@ -1,7 +1,7 @@
 ---
 name: Oliver 
 image: images/members/acm002.jpg 
-role: alumni
+role: formerMem
 aliases:
   - oliver
 links:
@@ -14,6 +14,6 @@ links:
   facebook:
   instagram:
   linkedin:
-  github: 
+  github:
 ---
 # Your text goes here

@@ -1,7 +1,7 @@
 ---
 name: 陳武黃 Tran Vu Hoang 
 image: images/members/hoang.jpg 
-role: phd
+role: formerMem
 aliases:
   - vu hoang tran
 links:

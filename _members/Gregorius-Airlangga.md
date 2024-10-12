@@ -1,7 +1,7 @@
 ---
 name: Gregorius Airlangga 
 image: images/members/intern10703.jpg 
-role: alumni
+role: formerMem
 aliases:
   - gregorius
   - airlangga
@@ -15,6 +15,6 @@ links:
   facebook:
   instagram:
   linkedin:
-  github: 
+  github:
 ---
 # Your text goes here

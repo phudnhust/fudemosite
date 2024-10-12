@@ -5,15 +5,5 @@ role: master
 aliases:
   - tao ting chen
 links:
-  home-page: https://example.com/
-  email: example@cs.nycu.edu.tw
-  phone: 
-  orcid: 0000-0000-0000-000
-  google-scholar: abcdefgAAAAJ
-  youtube: watch?v=ABCDEF0FLWw
-  facebook:
-  instagram:
-  linkedin:
-  github:
+  email: dowchen.en13@nycu.edu.tw
 ---
-# Your text goes here

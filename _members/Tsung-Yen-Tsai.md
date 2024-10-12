@@ -1,7 +1,7 @@
 ---
 name: 蔡宗諺 Tsung-Yen Tsai 
 image: images/members/404415072.jpg 
-role: undergrad
+role: formerMem
 aliases:
   - tsung yen tsai
 links:
@@ -14,6 +14,6 @@ links:
   facebook:
   instagram:
   linkedin:
-  github: 
+  github:
 ---
 # Your text goes here

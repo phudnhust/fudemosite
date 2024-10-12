@@ -1,7 +1,7 @@
 ---
 name: 黃得凱 De-Kai Haung  
 image: images/members/1097104307.jpg 
-role: undergrad
+role: formerMem
 aliases:
   - de kai haung
 links:
@@ -14,6 +14,6 @@ links:
   facebook:
   instagram:
   linkedin:
-  github: 
+  github:
 ---
 # Your text goes here

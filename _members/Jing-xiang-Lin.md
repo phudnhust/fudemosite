@@ -1,7 +1,7 @@
 ---
 name: 林敬翔 Jing-xiang Lin 
 image: images/members/606415093.jpg 
-role: undergrad
+role: formerMem
 aliases:
   - jing xiang lin
 links:

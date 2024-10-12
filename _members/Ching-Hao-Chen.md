@@ -1,7 +1,7 @@
 ---
 name: 陳景豪 Ching-Hao Chen 
 image: images/members/1100104334.jpg 
-role: undergrad
+role: formerMem
 aliases:
   - ching hao chen
 links:

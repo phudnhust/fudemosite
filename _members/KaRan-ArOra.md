@@ -1,7 +1,7 @@
 ---
 name: KaRan ArOra 
 image: images/members/intern10603.jpg 
-role: alumni
+role: formerMem
 aliases:
   - karan
   - arora

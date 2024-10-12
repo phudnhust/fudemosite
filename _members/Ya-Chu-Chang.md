@@ -1,7 +1,7 @@
 ---
 name: 張雅筑 Ya-Chu Chang 
 image: images/members/403415015.jpg 
-role: undergrad
+role: formerMem
 aliases:
   - ya-chu chang
 links:
@@ -14,6 +14,6 @@ links:
   facebook:
   instagram:
   linkedin:
-  github: 
+  github:
 ---
 # Your text goes here

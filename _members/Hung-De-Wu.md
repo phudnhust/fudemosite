@@ -1,7 +1,7 @@
 ---
 name: 吳泓德 Hung-De Wu 
 image: images/members/603415084.jpg 
-role: alumni
+role: formerMem
 aliases:
   - hung de wu
 links:
@@ -14,6 +14,6 @@ links:
   facebook:
   instagram:
   linkedin:
-  github: 
+  github:
 ---
 # Your text goes here

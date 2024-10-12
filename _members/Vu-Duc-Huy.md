@@ -1,7 +1,7 @@
 ---
 name: Vu Duc Huy 
 image: images/members/intern10710.jpg 
-role: alumni
+role: formerMem
 aliases:
   - duc huy vu
 links:

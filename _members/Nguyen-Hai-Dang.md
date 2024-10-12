@@ -1,7 +1,7 @@
 ---
 name: Nguyen Hai Dang 
 image: images/members/000002.jpg 
-role: alumni
+role: formerMem
 aliases:
   - hai dang nguyen
 links:

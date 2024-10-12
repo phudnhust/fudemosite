@@ -1,7 +1,7 @@
 ---
 name: Tran Duy Dinh 
 image: images/members/000001.jpg 
-role: alumni
+role: formerMem
 aliases:
   - duy dinh tran
 links:

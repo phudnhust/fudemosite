@@ -1,7 +1,7 @@
 ---
 name: Sandeep Kumar Kushwaha 
 image: images/members/intern10602.jpg 
-role: alumni
+role: formerMem
 aliases:
   - sandeep kumar kushwaha
 links:

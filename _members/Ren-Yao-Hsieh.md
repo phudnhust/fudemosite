@@ -1,7 +1,7 @@
 ---
 name: 謝仁耀 Ren-Yao Hsieh 
 image: images/members/1100104302.jpg 
-role: undergrad
+role: formerMem
 aliases:
   - ren yao hsieh
 links:
@@ -14,6 +14,6 @@ links:
   facebook:
   instagram:
   linkedin:
-  github: 
+  github:
 ---
 # Your text goes here

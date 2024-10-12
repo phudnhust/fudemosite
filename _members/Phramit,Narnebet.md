@@ -1,7 +1,7 @@
 ---
 name: Phramit,Narnebet 
 image: images/members/intern10701.jpg 
-role: alumni
+role: formerMem
 aliases:
   - phramit narnebet
 links:

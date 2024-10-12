@@ -1,7 +1,7 @@
 ---
 name: G. Anil Kumar 
 image: images/members/000003.jpg 
-role: alumni
+role: formerMem
 aliases:
   - anil kumar
 links:

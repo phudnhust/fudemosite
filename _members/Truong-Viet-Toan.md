@@ -1,7 +1,7 @@
 ---
 name: 張暐丹 Truong Viet Toan 
 image: images/members/606415174.jpg 
-role: master
+role: formerMem
 aliases:
   - viet toan truong
 links:
@@ -14,6 +14,6 @@ links:
   facebook:
   instagram:
   linkedin:
-  github: 
+  github:
 ---
 # Your text goes here

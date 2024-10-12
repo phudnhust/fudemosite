@@ -1,7 +1,7 @@
 ---
 name: 鄒咏霖 Yung-Lin Tsou 
 image: images/members/309551118.jpg 
-role: alumni
+role: formerMem
 aliases:
   - yung lin tsou
 links:
@@ -14,6 +14,6 @@ links:
   facebook:
   instagram:
   linkedin:
-  github: 
+  github:
 ---
 # Your text goes here
