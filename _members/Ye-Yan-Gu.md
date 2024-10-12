@@ -7,5 +7,5 @@ aliases:
 links:
   github: shit6333
   website: https://quqland.com/
-  youtube: @%E8%91%89%E5%BD%A5%E8%B0%B7-e7r
+  # youtube: @%E8%91%89%E5%BD%A5%E8%B0%B7-e7r
 ---
