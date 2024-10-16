@@ -5,7 +5,7 @@ nav:
   tooltip: Homepage
 ---
 
-{% include section.html %}
+{% include section.html background="images/background.jpg" dark=true %}
 
 {% include img-slideshow.html %}
 
