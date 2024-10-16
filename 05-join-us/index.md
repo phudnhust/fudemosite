@@ -5,7 +5,7 @@ nav:
   tooltip: Email, address, and location
 ---
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/pages-title-background/joinus.jpg" dark=true %}
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
