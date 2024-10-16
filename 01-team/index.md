@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our team consists of passionate scientists, postdocs, and students who work together to push the boundaries of Applied Computing and Multimedia. Each member contributes specialized knowledge and creativity, forming a collaborative group dedicated to scientific discovery and innovation.
 
 {% include section.html %}
 
@@ -24,10 +22,6 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 ## Master students
 
 {% include list.html data="members" component="portrait" filters="role: master" %}
-
-## Undergraduate students
-
-{% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
 ## Former Members
 

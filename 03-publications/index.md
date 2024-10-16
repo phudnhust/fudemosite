@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our laboratory actively contributes to the scientific community through a range of peer-reviewed publications, showcasing our latest research advancements in [specific field or research focus], and fostering innovation in Applied Computing and Multimedia.
 
 {%
   include button.html
