@@ -5,6 +5,7 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
+{% include section.html background="images/background.jpg" dark=true %}
 # {% include icon.html icon="fa-solid fa-wrench" %}Research
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

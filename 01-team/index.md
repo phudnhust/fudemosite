@@ -5,8 +5,8 @@ nav:
   tooltip: About our team
 ---
 
+{% include section.html background="images/background.jpg" dark=true %}
 # {% include icon.html icon="fa-solid fa-users" %}Team
-
 Our team consists of passionate scientists, postdocs, and students who work together to push the boundaries of Applied Computing and Multimedia. Each member contributes specialized knowledge and creativity, forming a collaborative group dedicated to scientific discovery and innovation.
 
 {% include section.html %}
